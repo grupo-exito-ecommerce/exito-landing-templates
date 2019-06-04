@@ -2,7 +2,7 @@
 
 [Guía para la creación de una landing](https://github.com/grupo-exito-ecommerce/exito-landing-templates/blob/master/guide/landing-creation/landing-creation.md)
 
-[Descarga](https://github.com/grupo-exito-ecommerce/exito-vtex-doc/blob/master/resources/examples/landing/new-landing.html) el archivo HTML base para la creación de una landing
+[Descarga](https://github.com/grupo-exito-ecommerce/exito-landing-templates/blob/master/resources/examples/landing/new-landing.html) el archivo HTML base para la creación de una landing
 
 **Links de Bootstrap**
 
@@ -11,7 +11,6 @@
 |Bootstrap v3.3.5 (Vesion Exito)| [/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  | |
 |Bootstrap v3.3.7| [/arquivos/bootstrap.3.3.7.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css) | [Doc](https://getbootstrap.com/docs/3.3/getting-started/) |
 |Bootstrap v4.3.1| [/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) | [Doc](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-
 
 #### Guía de uso:
 > La url que debemos de emplear al momento de armar nuestra landing debe
@@ -23,5 +22,6 @@ Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archiv
 **Bootstrap v3.3.5 (Vesion Exito)**: Esta versión de Bootstrap es la empleada actualmente en el sitio web del exito. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDYwMTU5MCwtMTc3NTUxNzYzNl19
+eyJoaXN0b3J5IjpbLTE5MTg0OTQzNjksLTE3NzU1MTc2MzZdfQ
+==
 -->
