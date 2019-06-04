@@ -1,0 +1,63 @@
+
+.cabezote{
+	background-color: #fce900;
+}
+
+.texto p{
+	text-align: center;
+	margin-top: 25px;
+}
+
+.texto strong{
+	font-size: 30px;
+	color: #000;
+}
+
+.texto span{
+	font-size: 30px;
+	color: #dc0b13;
+}
+
+.correo p{
+	text-align: center;
+	margin-top: 15px;
+	font-size: 20px;
+}
+
+.logos{
+	margin-top: 25px;
+	padding-bottom: 40px;
+
+}
+
+.formulario{
+	font-weight:400;
+	padding-top:20px;
+	padding-left: 15px;
+	padding-right:15px;
+	padding-bottom:20px;	
+}
+
+.txt_form{
+	font-weight:500;
+	color: #393939;
+}
+
+
+.txt_terminos{
+	font-weight:200;
+	color:#fff;
+	font-size:14px;
+	
+}
+
+.contenedor_fomr{
+	font-weight:200;
+	color:#000;
+	font-size:14px;
+	padding:5px;
+	border: solid thin #CFCFCF;
+	border-radius: 5px;
+	
+	
+}

@@ -1,0 +1,1726 @@
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://exitocol.myvtex.com/arquivos/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://exitocol.myvtex.com/arquivos/exito-2019-application.css">  
+<script src="https://exitocol.vteximg.com.br/arquivos/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.exito.com/js/library/formValidation/framework/bootstrap.min.js"></script>
+<style type="text/css">
+        .txt_destacado {
+        font-size: 23px;
+        font-style: italic;
+        color: gray;
+        text-align: center;
+        border-bottom: #c9c9c9 solid thin;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    
+    .txt_destacado2 {
+        font-size: 23px;
+        font-style: bold;
+        color: #c92524;
+        text-align: center;
+        border: #c92524 solid 2px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+      }
+
+
+body{ background-color: white !important}
+
+
+
+
+  #nikeContainer .navegadores {
+    width: 49.99%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  #nikeContainer li .navegador {
+    padding: 20px 12px;
+    margin: 15px 0;
+    text-align: center;
+    font-size: 23px;
+    color: black;
+    background: gainsboro;
+    border-radius: 0;
+    letter-spacing: 3px;
+    font-weight: 400;
+  }
+
+  #nikeContainer li.active .navegador {
+    color: white;
+    background: #d32525;
+  }
+
+#nikeContainer li.active .navegador.mercado {
+    background: #5aa100;
+}
+
+
+</style>
+
+<section id="general" class="container">
+
+<div class="row">
+
+  <div class="col-xs-12">
+    <img src="https://exitocol.myvtex.com/arquivos/compra-y-recoge-ln-1.jpg" class="img-responsive hidden-xs" alt="Compra y recoge">
+    <img src="https://exitocol.myvtex.com/arquivos/compra-y-recoge-ln-1.jpg" class="img-responsive visible-xs" alt="Compra y recoge">
+  </div>
+
+</div>
+
+
+<div id="nikeContainer">
+
+<!-- navegador Tienda -->
+<div class="tabbable col-xs-12">
+  <div class="row">
+  <nav class="course-tabs col-xs-12">
+        <ul class="nav nav-pills">
+          <li class="active navegadores"><a class="navegador" href="#productos-tienda" data-toggle="tab">Tienda</a></li>
+          <li class="navegadores"><a class="navegador mercado" href="#productos-mercado" data-toggle="tab">Mercado</a></li>
+        </ul>
+      </nav>
+<!-- Comienza tienda -->
+
+<div class="tab-content box">
+        <div class="tab-pane fade active in" id="productos-tienda">
+
+
+
+    <!-- contenido tienda -->
+
+    <div class="row" style="aling-left">
+
+        <div class="col-xs-12 col-md-2 col-md-offset-1">
+            <img src="https://exitocol.myvtex.com/arquivos/compra-y-recoge-productos-tecnologia-hogar-ln.jpg" class="img-responsive" alt="Productos de tecnologÃ­a y hogar">
+        </div>
+
+        <div class="col-xs-12 col-md-8">
+            <h2>Compra productos de tecnologÃ­a, hogar y moda en exito.com y elige en quÃ© Ã‰xito recogerlos.</h2>
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <p class="txt_destacado">Compras, te confirmamos y recoges</p>
+        </div>
+    </div>
+
+    <!-- PASOS PARA COMPREY RECOGE-->
+
+    <div class="row" style="margin-top: 20px">
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/paso1.png">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>1. Ingresa a www.exito.com.</b>
+                        <br> RegÃ­strate e ingresa tu nombre de usuario y contraseÃ±a</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/paso2.png">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>2. Escoge tus compras.</b>
+                        <br> Selecciona los productos con la imagen de compra y recoge, agrÃ©galos al carrito e inicia el proceso de compra.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row" style="margin-top: 20px">
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/paso3.png">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>3. Elige tu almacÃ©n.</b><br>
+                        Cuando estÃ©s en el paso de informaciÃ³n de envÃ­o, escoge la opciÃ³n â€œcompra y recogeâ€. AllÃ­ tendrÃ¡s disponible un listado de almacenes donde podrÃ¡s recoger tus productos. Elige el que prefieras.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+
+            <div class="row">
+                <div class="col-xs-12">
+
+                    <div class="row">
+                        <div class="col-xs-2">
+                            <img src="https://exitocol.myvtex.com/arquivos/paso4.png">
+                        </div>
+                        <div class="col-xs-8">
+                            <p><b>4. Selecciona el mÃ©todo de pago.</b>
+                                <br> Y finaliza el proceso de compra.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12">
+
+                    <div class="row" style="margin-top: 15px">
+                        <div class="col-xs-2">
+                            <img src="https://exitocol.myvtex.com/arquivos/paso5.png">
+                        </div>
+                        <div class="col-xs-8">
+                            <p><b>5. Recoge tus compras.</b> Totalmente gratis en el almacÃ©n que elegiste.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-xs-12 col-md-8 col-md-offset-2">
+            <p class="txt_destacado2">Recuerda</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12 col-md-6 col-md-offset-3">
+            <p style="text-align: justify;">Debes esperar el correo que confirma la disponibilidad de tus productos en el -almacÃ©n que elegiste, antes de ir a recogerlos.
+                <br>
+                <br> Tu cÃ©dula y nÃºmero de pedido, son indispensables para recoger tus productos. No olvides llevarlos contigo.
+                <br>
+                <br> SÃ³lo los productos marcados con la imagen de Punto Entrega estÃ¡n disponibles para comprar en internet y recoger en el almacÃ©n.
+                <br>
+                <br>
+
+                <strong>Los tiempos de entrega son de 7 a 10 dÃ­as hÃ¡biles.</strong>
+            </p>
+        </div>
+    </div>
+
+    <div class="row" style="margin-top: 20px">
+<div id="ptoEntrega">
+                  
+                  <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="btn_ciudades">
+                        <a href="#Medellin" aria-controls="Medellin" role="tab" data-toggle="tab" aria-expanded="false">MedellÃ­n</a>
+                    </li>
+                    <li role="presentation" class="btn_ciudades">
+                        <a href="#Bogota" aria-controls="Bogota" role="tab" data-toggle="tab" aria-expanded="false">BogotÃ¡</a>
+                    </li>
+                    <li role="presentation" class="btn_ciudades active">
+                        <a href="#Otrasciudades" aria-controls="Otrasciudades" role="tab" data-toggle="tab" aria-expanded="true">Otras ciudades</a>
+                    </li>
+                  </ul>
+                  
+              <div class="tab-content">
+                  <div role="tabpanel" class="tab-pane itemactivo_ciudad" id="Medellin">
+                        <div class="row">
+                        
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Exito</p>
+                            </div>
+                        </div>  
+                         
+                        <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Ã‰xito Molinos</li>
+                                  <li>Ã‰xito Colombia</li>
+                                  <li>Ã‰xito San Antonio</li>
+                                  <li>Ã‰xito Poblado</li>
+                                  <li>Ã‰xito Laureles</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito del Este</li>
+                                <li>Ã‰xito Robledo</li>
+                                <li>Ã‰xito Unicentro MedellÃ­n</li>
+                                <li>Ã‰xito San Diego</li>
+                                <li>Ã‰xito BelÃ©n</li>
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito Envigado</li>
+                                <li>Ã‰xito ItagÃ¼Ã­</li>
+                                <li>Ã‰xito Bello</li>
+                                <li>Ã‰xito Bello centro</li>
+                              </ul>
+                            </div> 
+                            
+                            <div class="col-xs-6 visible-xs">
+                                <ul>
+                                 <li>Ã‰xito Molinos</li>
+                                  <li>Ã‰xito Colombia</li>
+                                  <li>Ã‰xito San Antonio</li>
+                                  <li>Ã‰xito Poblado</li>
+                                  <li>Ã‰xito Laureles</li>
+                                  <li>Ã‰xito del Este</li>
+                                  <li>Ã‰xito Bello</li>
+                                </ul>
+                             </div>
+                             
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                               <li>Ã‰xito del Este</li>
+                                <li>Ã‰xito Robledo</li>
+                                <li>Ã‰xito Unicentro MedellÃ­n</li>
+                                <li>Ã‰xito San Diego</li>
+                                <li>Ã‰xito BelÃ©n</li>
+                                <li>Ã‰xito Envigado</li>
+                                <li>Ã‰xito ItagÃ¼Ã­</li>
+                                <li>Ã‰xito Bello centro</li>
+                                </ul>
+                             </div>
+                            
+                            
+                            </div>
+                            
+                        <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Carulla</p>
+                            </div>
+                        </div> 
+                        
+                        <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Carulla Laureles</li>
+                                  <li>Carulla Oviedo</li>
+                                  <li>Carulla Poblado</li>
+                                  <li>Carulla San Lucas</li>
+                                  <li>Carulla Sao Paulo</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Carulla La VisitaciÃ³n</li>
+                                <li>Carulla Palmas</li>
+                                <li>Carulla City Plaza</li>
+                             <!--    <li>Carulla City Plaza</li>
+                                <li>Carulla Tesoro</li> -->
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                             <!--  <ul>
+                                <li>Carulla RinconOviedo</li>
+                                <li>Carulla Laureles</li>
+                              </ul> -->
+                            </div>
+                            
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                                <li>Carulla Laureles</li>
+                                  <li>Carulla Oviedo</li>
+                                  <li>Carulla Poblado</li>
+                                  <li>Carulla San Lucas</li>
+                                  <li>Carulla Sao Paulo</li>
+                                </ul>
+                             </div>
+                             
+                              <div class="col-xs-6 visible-xs">
+                                <ul>
+                                &lt;<li>Carulla La VisitaciÃ³n</li>
+                                <li>Carulla Palmas</li>
+                                <li>Carulla City Plaza</li>
+                                </ul>
+                             </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Surtimax</p>
+                            </div>
+                        </div> 
+                        
+                        <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Surtimax BelÃ©n</li>
+                                  <li>Surtimax Buenos Aires</li>
+                                  <li>Surtimax Castilla</li>
+                                  <li>Surtimax La AmÃ©rica</li>
+                                  <li>Surtimax San Javier</li>
+                                  <li>Surtimax BelÃ©n RincÃ³n</li>
+                                  <li>Surtimax Zamora</li>
+                                  <li>Surtimax Bello</li>
+                                  <li>Surtimax Centro de la moda</li>
+                                  
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <!-- <li>Surtimax La Ceja</li>
+                                <li>Surtimax Caldas</li>
+                                <li>Surtimax Bello</li>
+                                <li>Surtimax La America</li>
+                                <li>Surtimax Buenos Aires</li>
+                                <li>Surtimax Marinilla</li>
+                                <li>Surtimax Centro De La Moda</li>
+                                <li>Surtimax San Pedro</li>
+                                <li>Surtimax Plaza San Cristobal</li>
+                                <li>Surtimax Fredonia</li> -->
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                              <!--   <li>Surtimax Fredonia</li>
+                                <li>Surtimax Girardota</li>
+                                <li>Surtimax La Estrella</li>
+                                <li>Surtimax AmagÃ¡</li>
+                                <li>Surtimax BelÃ©n RincÃ³n</li> -->
+                              </ul>
+                            </div>
+                            
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                                 <li>Surtimax BelÃ©n</li>
+                                  <li>Surtimax Buenos Aires</li>
+                                  <li>Surtimax Castilla</li>
+                                  <li>Surtimax La AmÃ©rica</li>
+                                  <li>Surtimax San Javier</li>
+                                  <li>Surtimax BelÃ©n RincÃ³n</li>
+                                  <li>Surtimax Zamora</li>
+                                  <li>Surtimax Bello</li>
+                                  <li>Surtimax Centro de la moda</li>
+                                  
+                                </ul>
+                             </div>
+                             
+                              <div class="col-xs-6 visible-xs">
+                                <ul>
+                        <!--         <li>Surtimax La America</li>
+                                <li>Surtimax Buenos Aires</li>
+                                <li>Surtimax Marinilla</li>
+                                <li>Surtimax Centro De La Moda</li>
+                                <li>Surtimax San Pedro</li>
+                                <li>Surtimax Plaza San Cristobal</li>
+                                <li>Surtimax Fredonia</li>
+                                <li>Surtimax Fredonia</li>
+                                <li>Surtimax Girardota</li>
+                                <li>Surtimax La Estrella</li>
+                                <li>Surtimax AmagÃ¡</li>
+                                <li>Surtimax BelÃ©n RincÃ³n</li> -->
+                                </ul>
+                             </div>
+                        </div>
+                  </div>
+                  <div role="tabpanel" class="tab-pane itemactivo_ciudad" id="Bogota">
+                       <div class="row">
+                        
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Exito</p>
+                            </div>
+                        </div>  
+                         
+                       <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Ã‰xito Modelia</li>
+                                  <li>Ã‰xito Unicentro BogotÃ¡</li>
+                                  <li>Ã‰xito Tintal</li>
+                                  <li>Ã‰xito San MartÃ­n</li>
+                                  <li>Ã‰xito Ãlamos</li>
+                                  <li>Ã‰xito Bosa</li>
+                                  <li>Ã‰xito Ciudad Tunal</li>
+                                  <li>Ã‰xito FontibÃ³n</li>
+                                  <li>Ã‰xito Las Nieves</li>
+                                  <li>Ã‰xito Norte</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito Nuevo Kennedy</li>
+                                <li>Ã‰xito Occidente</li>
+                                <li>Ã‰xito Suba</li>
+                                <li>Ã‰xito Usme</li>
+                                <li>Ã‰xito Calle 80</li>
+                                <li>Ã‰xito Country</li>
+                                <li>Ã‰xito Chapinero</li>
+                                <li>Ã‰xito La Colina</li>
+                                <li>Ã‰xito Floresta</li>
+                                <li>Ã‰xito Gran EstaciÃ³n</li>
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito AmÃ©ricas</li>
+                                <li>Ã‰xito Salitre</li>
+                                <li>Ã‰xito ChÃ­a</li>
+                                <li>Ã‰xito ChÃ­a Fontanar</li>
+                                <li>Ã‰xito Mosquera</li>
+                              <li>Ã‰xito Plaza BolÃ­var</li>
+                                <!-- <li>Ã‰xito SimÃ³n Bolivar</li>
+                                <li>Ã‰xito Modelia</li>  -->
+                                
+                              </ul>
+                            </div> 
+                            
+                            <div class="col-xs-6 visible-xs">
+                                <ul>
+                                     <li>Ã‰xito Modelia</li>
+                                  <li>Ã‰xito Unicentro BogotÃ¡</li>
+                                  <li>Ã‰xito Tintal</li>
+                                  <li>Ã‰xito San MartÃ­n</li>
+                                  <li>Ã‰xito Ãlamos</li>
+                                  <li>Ã‰xito Bosa</li>
+                                  <li>Ã‰xito Ciudad Tunal</li>
+                                  <li>Ã‰xito FontibÃ³n</li>
+                                  <li>Ã‰xito Las Nieves</li>
+                                  <li>Ã‰xito Norte</li>
+                                  <li>Ã‰xito Nuevo Kennedy</li>
+                                <li>Ã‰xito Occidente</li>
+                                </ul>
+                             </div>
+                             
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                                     <li>Ã‰xito Suba</li>
+                                <li>Ã‰xito Usme</li>
+                                <li>Ã‰xito Calle 80</li>
+                                <li>Ã‰xito Country</li>
+                                <li>Ã‰xito Chapinero</li>
+                                <li>Ã‰xito La Colina</li>
+                                <li>Ã‰xito Floresta</li>
+                                <li>Ã‰xito Gran EstaciÃ³n</li>
+                                 <li>Ã‰xito AmÃ©ricas</li>
+                                <li>Ã‰xito Salitre</li>
+                                <li>Ã‰xito ChÃ­a</li>
+                                <li>Ã‰xito ChÃ­a Fontanar</li>
+                                <li>Ã‰xito Mosquera</li>
+                                <li>Ã‰xito Plaza BolÃ­var</li>
+                                </ul>
+                             </div>
+                            
+                            
+                            </div>
+                            
+                       <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Carulla</p>
+                            </div>
+                        </div> 
+                        
+                       <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Carulla Alhambra</li>
+                                  <li>Carulla Autopista 184</li>
+                                  <li>Carulla Bella Suiza</li>
+                                  <li>Carulla Calle 100</li>
+                                  <li>Carulla Calle 102</li>
+                                  <li>Carulla Calle 110</li>
+                                  <li>Carulla Calle 127</li>
+                                  <li>Carulla Calle 140</li>
+                                  <li>Carulla calle 147</li>
+                                  <li>Carulla Calle 47</li>
+                                  <li>Carulla Calle 63</li>
+                                  <li>Carulla Cedro BolÃ­var</li>
+                                  <li>Carulla ChicÃ³</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Carulla La Colina</li>
+                                <li>Carulla Cortijo</li>
+                                <li>Carulla Country</li>
+                                <li>Carulla El Nogal</li>
+                                <li>Carulla GalerÃ­as</li>
+                                <li>Carulla Granada Hills</li>
+                                <li>Carulla Niza</li>
+                                <li>Carulla Pablo VI</li>
+                                <li>Carulla Pasadena</li>
+                                <li>Carulla Paseo Real</li>
+                                <li>Carulla Pepe Sierra</li>
+                                <li>Carulla Pontevedra</li>
+                                <li>Carulla Quinta Camacho</li>
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Carulla RincÃ³n de la Colina</li>
+                                <li>Carulla Rosales</li>
+                                <li>Carulla San NicolÃ¡s</li>
+                                <li>Carulla Santa BÃ¡rbara</li>
+                                <li>Carulla Soledad</li>
+                                <li>Carulla Villa del prado</li>
+                                <li>Carulla Centro ChÃ­a</li>
+                                <li>Carulla San Rafael</li>
+                                <li>Carulla Belmira</li>
+                                <li>Carulla El Retiro</li>
+                                <!-- <li>Carulla Colina</li> -->
+                              </ul> 
+                            </div>
+                            
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                             <li>Carulla Alhambra</li>
+                                  <li>Carulla Autopista 184</li>
+                                  <li>Carulla Bella Suiza</li>
+                                  <li>Carulla Calle 100</li>
+                                  <li>Carulla Calle 102</li>
+                                  <li>Carulla Calle 110</li>
+                                  <li>Carulla Calle 127</li>
+                                  <li>Carulla Calle 140</li>
+                                  <li>Carulla calle 147</li>
+                                  <li>Carulla Calle 47</li>
+                                  <li>Carulla Calle 63</li>
+                                  <li>Carulla Cedro BolÃ­var</li>
+                                  <li>Carulla ChicÃ³</li>
+                                 <li>Carulla La Colina</li>
+                                <li>Carulla Cortijo</li>
+                                <li>Carulla Country</li>
+                                <li>Carulla San Rafael</li>
+                                <li>Carulla Belmira</li>
+                                
+                                </ul>
+                             </div>
+                             
+                              <div class="col-xs-6 visible-xs">
+                                <ul>
+                              <li>Carulla El Nogal</li>
+                              <li>Carulla El Retiro</li>
+                                <li>Carulla GalerÃ­as</li>
+                                <li>Carulla Granada Hills</li>
+                                <li>Carulla Niza</li>
+                                <li>Carulla Pablo VI</li>
+                                <li>Carulla Pasadena</li>
+                                <li>Carulla Paseo Real</li>
+                                <li>Carulla Pepe Sierra</li>
+                                <li>Carulla Pontevedra</li>
+                                <li>Carulla Quinta Camacho</li>
+                                 <li>Carulla RincÃ³n de la Colina</li>
+                                <li>Carulla Rosales</li>
+                                <li>Carulla San NicolÃ¡s</li>
+                                <li>Carulla Santa BÃ¡rbara</li>
+                                <li>Carulla Soledad</li>
+                                <li>Carulla Villa del prado</li>
+                                <li>Carulla Centro ChÃ­a</li>
+                                </ul>
+                             </div>
+                        </div>
+                        
+                       <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Surtimax</p>
+                            </div>
+                        </div> 
+                        
+                       <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Surtimax Avenidas Rojas</li>
+                                  <li>Surtimax Barrancas</li>
+                                  <li>Surtimax Britalia</li>
+                                  <li>Surtimax calle 129</li>
+                                  <li>Surtimax Calle 80</li>
+                                  <li>Surtimax Campanela</li>
+                                  <li>Surtimax CampiÃ±a</li>
+                                  <li>Surtimax Carbonel</li>
+                                  <li>Surtimax Carrera 51</li>
+                                  <li>Surtimax Casablanca</li>
+                                  <li>Surtimax Centro</li>
+                                  <li>Surtimax Ciudadela</li>
+                                  <li>Surtimax Claret</li>
+                                  <li>Surtimax Codito</li>
+                                  <li>Surtimax Condado de Castilla</li>
+                                  <li>Surtimax el Divino</li>
+                                  <li>Surtimax EngativÃ¡</li>
+                                  <li>Surtimax Parque FontibÃ³n</li>
+                                  <li>Surtimax La Calera</li>
+                                  <li>Surtimax la EspaÃ±ola</li>
+                                  <li>Surtimax La Paz Bosa</li>
+                                  <li>Surtimax La Victoria</li>
+                                  <li>Surtimax Leon XIII</li>
+                                  <li>Surtimax Nueva Roma</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Surtimax OrquÃ­deas</li>
+                                <li>Surtimax patio bonito</li>
+                                <li>Surtimax Plaza de las AmÃ©ricas</li>
+                                <li>Surtimax Prado Veraniego</li>
+                                <li>Surtimax Primavera</li>
+                                <li>Surtimax Restrepo</li>
+                                <li>Surtimax San Blas</li>
+                                <li>Surtimax San CristÃ³bal</li>
+                                <li>Surtimax San Fernando</li>
+                                <li>Surtimax San Jorge</li>
+                                <li>Surtimax San Luis - Suba Rincon </li>
+                                <li>Surtimax Santa Cecilia</li>
+                                <li>Surtimax Suba</li>
+                                <li>Surtimax Tabora</li>
+                                <li>Surtimax Tibabuyes</li>
+                                <li>Surtimax Trinitaria</li>
+                                <li>Surtimax Tunjuelito</li>
+                                <li>Surtimax Verbenal</li>
+                                <li>Surtimax Versalles</li>
+                                <li>Surtimax Villa Gladys</li>
+                                <li>Surtimax Pradilla</li>
+                                <li>Surtimax CajicÃ¡</li>
+                                
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Surtimax Santa Ana Mosquera</li>
+                                <li>Surtimax San Mateo</li>
+                                <li>Surtimax Compartir Soacha</li>
+                                <li>Surtimax Soacha</li>
+                                <li>Surtimax Yanguas</li>
+                                <li>Surtimax San Cristobal </li>
+                          <!--       <li>Surtimax Nueva Roma</li>
+                                <li>Surtimax Tunjuelito</li>
+                                <li>Surtimax Santa Lucia</li>
+                                <li>Surtimax Casa Blanca</li>
+                                <li>Surtimax Centro</li>
+                                <li>Surtimax Autopista Sur</li>
+                                <li>Surtimax Patio Bonito</li>
+                                <li>Surtimax San Jorge</li>
+                                <li>Surtimax San Mateo</li>
+                                <li>Surtimax Compartir</li>
+                                <li>Surtimax Carbonel</li>
+                                <li>Surtimax La Paz Bosa</li>
+                                <li>Surtimax Matatigres</li>
+                                <li>Surtimax El Divino</li>
+                                <li>Surtimax Yanguas</li>
+                                <li>Surtimax Britalia</li> 
+                                <li>Surtimax Maracos</li>
+                                <li>Surtimax La Victoria</li> -->
+                              </ul>
+                            </div>
+                            
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                                  <li>Surtimax Avenidas Rojas</li>
+                                  <li>Surtimax Barrancas</li>
+                                  <li>Surtimax Britalia</li>
+                                  <li>Surtimax calle 129</li>
+                                  <li>Surtimax Calle 80</li>
+                                  <li>Surtimax Campanela</li>
+                                  <li>Surtimax CampiÃ±a</li>
+                                  <li>Surtimax Carbonel</li>
+                                  <li>Surtimax Carrera 51</li>
+                                  <li>Surtimax Casablanca</li>
+                                  <li>Surtimax Centro</li>
+                                  <li>Surtimax Ciudadela</li>
+                                  <li>Surtimax Claret</li>
+                                  <li>Surtimax Codito</li>
+                                  <li>Surtimax Condado de Castilla</li>
+                                  <li>Surtimax el Divino</li>
+                                  <li>Surtimax EngativÃ¡</li>
+                                  <li>Surtimax Parque FontibÃ³n</li>
+                                  <li>Surtimax La Calera</li>
+                                  <li>Surtimax la EspaÃ±ola</li>
+                                  <li>Surtimax La Paz Bosa</li>
+                                  <li>Surtimax La Victoria</li>
+                                  <li>Surtimax Leon XIII</li>
+                                  <li>Surtimax Nueva Roma</li>
+                                <li>Surtimax OrquÃ­deas</li>
+                                <li>Surtimax patio bonito</li>
+                                <li>Surtimax Plaza de las AmÃ©ricas</li>
+                                <li>Surtimax Prado Veraniego</li>
+                                <li>Surtimax Primavera</li>
+                                  
+                                  
+                                </ul>
+                             </div>
+                             
+                              <div class="col-xs-6 visible-xs">
+                                <ul>
+                          <li>Surtimax Restrepo</li>
+                                <li>Surtimax San Blas</li>
+                                <li>Surtimax San CristÃ³bal</li>
+                                <li>Surtimax San Fernando</li>
+                                <li>Surtimax San Jorge</li>
+                                <li>Surtimax San Luis - Suba Rincon </li>
+                                <li>Surtimax Santa Cecilia</li>
+                                <li>Surtimax Suba</li>
+                                <li>Surtimax Tabora</li>
+                                <li>Surtimax Tibabuyes</li>
+                                <li>Surtimax Trinitaria</li>
+                                <li>Surtimax Tunjuelito</li>
+                                <li>Surtimax Verbenal</li>
+                                <li>Surtimax Versalles</li>
+                                <li>Surtimax Villa Gladys</li>
+                                <li>Surtimax Pradilla</li>
+                                <li>Surtimax CajicÃ¡</li>
+                                <li>Surtimax Santa Ana Mosquera</li>
+                                <li>Surtimax San Mateo</li>
+                                <li>Surtimax Compartir Soacha</li>
+                                <li>Surtimax Soacha</li>
+                                <li>Surtimax Yanguas</li>
+                                <li>Surtimax San Cristobal </li>
+                                </ul>
+                             </div>
+                        </div>
+                  </div>
+                  <div role="tabpanel" class="tab-pane itemactivo_ciudad active" id="Otrasciudades">
+                       <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Otras ciudades</p>
+                            </div>
+                        </div>  
+                        
+                       <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Ã‰xito ApartadÃ³</li>
+                                  <li>Ã‰xito Caucasia</li>
+                                  <li>Ã‰xito Turbo</li>
+                                  <li>Ã‰xito Rionegro</li>
+                                  <li>Ã‰xito Sabaneta</li>
+                                  <li>Ã‰xito Mayorca</li>
+                                  <li>Ã‰xito FacatativÃ¡</li>
+                                  <li>Ã‰xito Girardot</li>
+                                  <li>Ã‰xito Unicentro Villavicencio</li>
+                                  <li>Ã‰xito Sabana Villavicencio</li>
+                                  <li>Ã‰xito ZipaquirÃ¡</li>
+                                  <li>Ã‰xito FusagasugÃ¡</li>
+                                  <li>Ã‰xito Express Palenquero</li>
+                                  <li>Ã‰xito Florencia</li>
+                                  <li>Ã‰xito Yopal</li>
+                                  <li>Ã‰xito La Toma</li>
+                                  <li>Ã‰xito Neiva San Pedro</li>
+                                  <li>Ã‰xito Neiva Centro</li>
+                                  <li>Ã‰xito Ãšnico Neiva</li>
+                                  <li>Ã‰xito Pereira Victoria</li>
+                                  <li>Ã‰xito Parque Arboleda</li>
+                                  <li>Ã‰xito Sancancio</li>
+                                  <li>Ã‰xito Manizales Fundadores</li>
+                                  <li>Ã‰xito MonterÃ­a Norte</li>
+                                  <li>Ã‰xito Alamedas del Sinu</li>
+                                  <li>Ã‰xito TolÃº</li>
+                                  <li>Ã‰xito Las Flores</li>
+                                  <li>Ã‰xito Cristal Armenia</li>
+                               </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito Pitalito</li>
+                                <li>Ã‰xito San Mateo CÃºcuta</li>
+                                <li>Ã‰xito Avenida Quinta</li>
+                                <li>Ã‰xito Bucaramanga (La Rosita)</li>
+                                <li>Ã‰xito Oriental Bucaramanga</li>
+                                <li>Ã‰xito Centro Bucaramanga</li>
+                                <li>Ã‰xito Barrancabermeja</li>
+                                <li>Ã‰xito OcaÃ±a</li>
+                                <li>Ã‰xito Piedecuesta</li>
+                                <li>Ã‰xito IbaguÃ©</li>
+                                <li>Ã‰xito Espinal</li>
+                                <li>Ã‰xito Tunja</li>
+                                <li>Ã‰xito Sogamoso</li>
+                                <li>Ã‰xito Duitama</li>
+                                <li>Ã‰xito Metropolitano</li>
+                                <li>Ã‰xito Buenavista Barranquilla</li>
+                                <li>Ã‰xito San Blas</li>
+                                <li>Ã‰xito Murillo</li>
+                                <li>Ã‰xito Panorama</li>
+                                <li>Ã‰xito Calima</li>
+                                <li>Ã‰xito Palmira</li>
+                                <li>Ã‰xito TuluÃ¡</li>
+                                <li>Ã‰xito Buga</li>
+                                <li>Ã‰xito Armenia Centro</li>
+                                <li>Ã‰xito Uniarmenia</li>
+                                <li>Ã‰xito Melgar</li>
+                                <li>Ã‰xito Riohacha</li>
+                                <li>Ã‰xito Sabanalarga</li>
+                                <li>Ã‰xito Carepa</li>
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito Barranquilla Norte</li>
+                                <li>Ã‰xito Soledad</li>
+                                <li>Ã‰xito Buenavista Santa Marta</li>
+                                <li>Ã‰xito Libertador</li>
+                                <li>Ã‰xito Santa Marta Centro</li>
+                                <li>Ã‰xito Matuna Cartagena</li>
+                                <li>Ã‰xito San Diego Cartagena</li>
+                                <li>Ã‰xito Cartagena</li>
+                                <li>Ã‰xito MaganguÃ©</li>
+                                <li>Ã‰xito Sincelejo</li>
+                                <li>Ã‰xito SimÃ³n BolÃ­var</li>
+                                <li>Ã‰xito Unicali</li>
+                                <li>Ã‰xito Chipichape</li>
+                                <li>Ã‰xito San Fernando</li>
+                                <li>Ã‰xito La Flora</li>
+                                <li>Ã‰xito Pasto Panamericana</li>
+                                <li>Ã‰xito Pasto Centro</li>
+                                <li>Ã‰xito Ipiales</li>
+                                <li>Ã‰xito PopayÃ¡n Panamericana</li>
+                                <li>Ã‰xito PopayÃ¡n Centro</li>
+                                <li>Ã‰xito Pereira Cuba</li>
+                                <li>Ã‰xito Outlet Dos Quebradas</li>
+                                <li>Ã‰xito Lorica</li>
+                              </ul>
+                            </div> 
+                            
+                            <div class="col-xs-6 visible-xs">
+                                <ul>
+                    <li>Ã‰xito ApartadÃ³</li>
+                                  <li>Ã‰xito Caucasia</li>
+                                  <li>Ã‰xito Turbo</li>
+                                  <li>Ã‰xito Rionegro</li>
+                                  <li>Ã‰xito Sabaneta</li>
+                                  <li>Ã‰xito Mayorca</li>
+                                  <li>Ã‰xito FacatativÃ¡</li>
+                                  <li>Ã‰xito Girardot</li>
+                                  <li>Ã‰xito Unicentro Villavicencio</li>
+                                  <li>Ã‰xito Sabana Villavicencio</li>
+                                  <li>Ã‰xito ZipaquirÃ¡</li>
+                                  <li>Ã‰xito FusagasugÃ¡</li>
+                                  <li>Ã‰xito Express Palenquero</li>
+                                  <li>Ã‰xito Florencia</li>
+                                  <li>Ã‰xito Yopal</li>
+                                  <li>Ã‰xito La Toma</li>
+                                  <li>Ã‰xito Neiva San Pedro</li>
+                                  <li>Ã‰xito Neiva Centro</li>
+                                  <li>Ã‰xito Ãšnico Neiva</li>
+                                  <li>Ã‰xito Pereira Victoria</li>
+                                  <li>Ã‰xito Parque Arboleda</li>
+                                  <li>Ã‰xito Sancancio</li>
+                                  <li>Ã‰xito Manizales Fundadores</li>
+                                  <li>Ã‰xito MonterÃ­a Norte</li>
+                                  <li>Ã‰xito Alamedas del Sinu</li>
+                                  <li>Ã‰xito TolÃº</li>
+                                  <li>Ã‰xito Las Flores</li>
+                                  <li>Ã‰xito Cristal Armenia</li>
+                                  <li>Ã‰xito Pitalito</li>
+                                <li>Ã‰xito San Mateo CÃºcuta</li>
+                                <li>Ã‰xito Avenida Quinta</li>
+                                <li>Ã‰xito Bucaramanga (La Rosita)</li>
+                                <li>Ã‰xito Oriental Bucaramanga</li>
+                                <li>Ã‰xito Centro Bucaramanga</li>
+                                <li>Ã‰xito Barrancabermeja</li>
+                                <li>Ã‰xito OcaÃ±a</li>
+                                </ul>
+                             </div>
+                             
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                        <li>Ã‰xito Piedecuesta</li>
+                                <li>Ã‰xito IbaguÃ©</li>
+                                <li>Ã‰xito Espinal</li>
+                                <li>Ã‰xito Tunja</li>
+                                <li>Ã‰xito Sogamoso</li>
+                                <li>Ã‰xito Duitama</li>
+                                <li>Ã‰xito Metropolitano</li>
+                                <li>Ã‰xito Buenavista Barranquilla</li>
+                                <li>Ã‰xito San Blas</li>
+                                <li>Ã‰xito Murillo</li>
+                                <li>Ã‰xito Panorama</li>
+                                <li>Ã‰xito Calima</li>
+                                <li>Ã‰xito Palmira</li>
+                                <li>Ã‰xito TuluÃ¡</li>
+                                <li>Ã‰xito Buga</li>
+                                <li>Ã‰xito Armenia Centro</li>
+                                <li>Ã‰xito Uniarmenia</li>
+                                <li>Ã‰xito Melgar</li>
+                                <li>Ã‰xito Riohacha</li>
+                                <li>Ã‰xito Sabanalarga</li>
+                                <li>Ã‰xito Carepa</li>
+                                  <li>Ã‰xito Barranquilla Norte</li>
+                                <li>Ã‰xito Soledad</li>
+                                <li>Ã‰xito Buenavista Santa Marta</li>
+                                <li>Ã‰xito Libertador</li>
+                                <li>Ã‰xito Santa Marta Centro</li>
+                                <li>Ã‰xito Matuna Cartagena</li>
+                                <li>Ã‰xito San Diego Cartagena</li>
+                                <li>Ã‰xito Cartagena</li>
+                                <li>Ã‰xito MaganguÃ©</li>
+                                <li>Ã‰xito Sincelejo</li>
+                                <li>Ã‰xito SimÃ³n BolÃ­var</li>
+                                <li>Ã‰xito Unicali</li>
+                                <li>Ã‰xito Chipichape</li>
+                                <li>Ã‰xito San Fernando</li>
+                                <li>Ã‰xito La Flora</li>
+                                <li>Ã‰xito Pasto Panamericana</li>
+                                <li>Ã‰xito Pasto Centro</li>
+                                <li>Ã‰xito Ipiales</li>
+                                <li>Ã‰xito PopayÃ¡n Panamericana</li>
+                                <li>Ã‰xito PopayÃ¡n Centro</li>
+                                <li>Ã‰xito Pereira Cuba</li>
+                                <li>Ã‰xito Outlet Dos Quebradas</li>
+                                <li>Ã‰xito Lorica</li>
+                                </ul>
+                             </div>
+                            
+                            
+                            </div>
+                            
+                       <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Surtimax</p>
+                            </div>
+                        </div> 
+                        
+                       <div class="row txt_ciudad">
+                            <div class="col-xs-6">
+                                <ul>
+                                  <li>Surtimax AmagÃ¡</li>
+                                  <li>Surtimax Fredonia</li>
+                                  <li>Surtimax Girardota</li>
+                                  <li>Surtimax La Ceja</li>
+                                  <li>Surtimax Marinilla</li>
+                                  <li>Surtimax Puerto Berrio</li>
+                                  <li>Surtimax San Pedro</li>
+                                  <li>Surtimax FacatativÃ¡</li>
+                                  <li>Surtimax Funza</li>
+                                  <li>Surtimax SopÃ³</li>
+                                  <li>Surtimax TocancipÃ¡</li>
+                                  <li>Surtimax Porfia</li>
+                                  <li>Surtimax Zipaquira</li>
+
+
+                                 </ul>
+                            </div>
+                            
+                            <div class="col-xs-6">
+                              <ul>
+                                <li>Surtimax La Playa</li>
+                                <li>Surtimax SahagÃºn </li>
+                                <li>Surtimax Ciudad BolÃ­var</li>
+                                <li>Surtimax Andes</li>
+                                <li>Surtimax Madrid</li>
+                                <li>Surtimax GachancipÃ¡</li>
+                              </ul>
+                            </div>
+                        </div>
+                   </div>
+              </div>
+          </div>
+
+
+</div>
+
+
+</div>
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+
+
+<!-- navegador Tienda -->
+
+<!-- <style type="text/css">
+        .txt_destacado {
+        font-size: 23px;
+        font-style: italic;
+        color: gray;
+        text-align: center;
+        border-bottom: #c9c9c9 solid thin;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    
+    .txt_destacado2 {
+        font-size: 23px;
+        font-style: bold;
+        color: #c92524;
+        text-align: center;
+        border: #c92524 solid 2px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px;
+</style> -->
+
+<!-- Comienza tienda -->
+
+        <div class="tab-pane fade " id="productos-mercado">
+
+    <!-- contenido tienda -->
+
+    <div class="row" style="aling-left">
+
+        <div class="col-xs-12 col-md-2 col-md-offset-1">
+            <img src="https://exitocol.myvtex.com/arquivos/bodegon-mercado.jpg" class="img-responsive">
+        </div>
+
+        <div class="col-xs-12 col-md-8">
+            <h2>Haz tu mercado en nuestra app, exito.com o Domicilios Ã‰xito y recÃ³gelo en tu almacÃ©n mÃ¡s cercano.</h2>
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <p class="txt_destacado">AprovÃ©chalo, es muy fÃ¡cil</p>
+        </div>
+    </div>
+
+    <!-- PASOS PARA COMPREY RECOGE-->
+
+    <div class="row" style="margin-top: 20px">
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/icon_1.gif">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>1. Ingresa a www.exito.com.</b>
+                        <br> RegÃ­strate e ingresa tu nombre de usuario y contraseÃ±a</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/icon_2.gif">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>2. Compra tu mercado.</b></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row" style="margin-top: 20px">
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/icon_3.gif">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>3. Selecciona la opciÃ³n compra y recoge</b><br>
+                        en informaciÃ³n de envÃ­o</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-md-5 col-md-offset-1 col-xs-12">
+            <div class="row">
+                <div class="col-xs-2">
+                    <img src="https://exitocol.myvtex.com/arquivos/icon_4.gif">
+                </div>
+                <div class="col-xs-8">
+                    <p><b>4. Escoge la hora</b><br>
+                       en la que prefieres recoger tu pedido, acude a nuestro Punto Entrega y disfrÃºtalo.</p>
+                </div>
+            </div>
+        </div>
+   
+
+    </div>
+
+<!--     <div class="row">
+
+        <div class="col-xs-12 col-md-8 col-md-offset-2">
+            <p class="txt_destacado2" style="border-color: #5aa100 !important; color:#5aa100 !important ">Recuerda</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12 col-md-6 col-md-offset-3">
+            <p style="text-align: justify;"><strong>Los tiempos de entrega son:</strong><br><br>
+                    <ul>
+                      <li>
+                        Este pedido se entrega en el dÃ­a y hora que indiques, mÃ­nimo 3 horas despuÃ©s de haberlo solicitado.
+                      </li>
+                      <li>
+                        En la ciudad de <strong>MedellÃ­n</strong> puedes pasar a recoger tu pedido en la direcciÃ³n Cr 43B # 6 Sur â€“ 140</li>
+                      <li>
+                        Este servicio es <strong>totalmente gratis.</strong>
+                      </li>
+                    </ul>
+                </div>
+            </p>
+        </div>
+    </div> -->
+
+
+</div>
+
+
+
+
+
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3 class="text-center">Aplica para los siguientes almacenes</h3>
+    </div>
+</div>
+
+
+
+ <div class="row" style="margin-top: 20px">
+    
+    <div class="col-xs-12">
+        
+  <div class="row">
+                        
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Exito</p>
+                            </div>
+                        </div>  
+                         
+                        <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Cedicen Oviedo</li>
+                                  <li>Ã‰xito Villa Mayor</li>
+                                  <li>Ã‰xito Unicentro BogotÃ¡</li>
+                                  <li>Ã‰xito San Diego-catagena</li>
+                                  <li>Ã‰xito Poblado</li>
+                                  <li>Ã‰xito Norte</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito La Flora</li>
+                                <li>Ã‰xito Gran EstaciÃ³n</li>
+                                <li>Ã‰xito Envigado</li>
+                                <li>Ã‰xito Country</li>
+                                <li>Ã‰xito Colina</li>
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Ã‰xito Chia Fontanar</li>
+                                <li>Ã‰xito Chapinero</li>
+                                <li>Ã‰xito Bello</li>
+                                <li>Ã‰xito Barranquilla</li>
+                                <li>Ã‰xito AmÃ©ricas</li>
+                              </ul>
+                            </div> 
+                            
+                            <div class="col-xs-6 visible-xs">
+                                <ul>
+                                <li>Cedicen Oviedo</li>
+                                  <li>Ã‰xito Villa Mayor</li>
+                                  <li>Ã‰xito Unicentro BogotÃ¡</li>
+                                  <li>Ã‰xito San Diego-catagena</li>
+                                  <li>Ã‰xito Poblado</li>
+                                  <li>Ã‰xito Norte</li>
+                                <li>Ã‰xito La Flora</li>
+                                <li>Ã‰xito Gran EstaciÃ³n</li>
+                                <li>Ã‰xito Envigado</li>
+                                <li>Ã‰xito Country</li>
+                                <li>Ã‰xito Colina</li>
+                                </ul>
+                             </div>
+                             
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                               <li>Ã‰xito Chia Fontanar</li>
+                                <li>Ã‰xito Chapinero</li>
+                                <li>Ã‰xito Bello</li>
+                                <li>Ã‰xito Barranquilla</li>
+                                <li>Ã‰xito AmÃ©ricas</li>
+                                </ul>
+                             </div>
+                            
+                            
+                            </div>
+                            
+                        <div class="row">
+                            <div class="col-xs-12">
+                              <p class="tittle_ciudad">Carulla</p>
+                            </div>
+                        </div> 
+                        
+                        <div class="row txt_ciudad">
+                            <div class="col-xs-4 hidden-xs">
+                                <ul>
+                                  <li>Carulla San Fernando</li>
+                                  <li>Carulla Quinta Camacho</li>
+                                  <li>Carulla Pepe Sierra</li>
+                                  <li>Carulla Palmas</li>
+                                  <li>Carulla Oviedo</li>
+                                  <li>Carulla Centro ChÃ­a</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                              <ul>
+                                <li>Carulla Niza</li>
+                                <li>Carulla GalerÃ­as</li>
+                                <li>Carulla Country</li>
+                                <li>Carulla Castillo Grande</li>
+                                <li>Carulla Calle 140</li>
+                             <!--    <li>Carulla City Plaza</li>
+                                <li>Carulla Tesoro</li> -->
+                              </ul>
+                            </div>
+                            
+                            <div class="col-xs-4 hidden-xs">
+                             <!--  <ul>
+                                <li>Carulla RinconOviedo</li>
+                                <li>Carulla Laureles</li>
+                              </ul> -->
+                            </div>
+                            
+                             <div class="col-xs-6 visible-xs">
+                                <ul>
+                                 <li>Carulla San Fernando</li>
+                                  <li>Carulla Quinta Camacho</li>
+                                  <li>Carulla Pepe Sierra</li>
+                                  <li>Carulla Palmas</li>
+                                  <li>Carulla Oviedo</li>
+                                  <li>Carulla Centro ChÃ­a</li>
+                                </ul>
+                             </div>
+                             
+                              <div class="col-xs-6 visible-xs">
+                                <ul>
+                                  <li>Carulla Niza</li>
+                                <li>Carulla GalerÃ­as</li>
+                                <li>Carulla Country</li>
+                                <li>Carulla Castillo Grande</li>
+                                <li>Carulla Calle 140</li>
+                                </ul>
+                             </div>
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="tabs">
+  <ul class="tabs-nav">
+    <li><a href="#tab-1">Features</a></li>
+    <li><a href="#tab-2">Details</a></li>
+  </ul>
+  <div class="tabs-stage">
+    <div id="tab-1">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec neque nisi, dictum aliquet lectus.</p>
+    </div>
+    <div id="tab-2">
+      <p>Phasellus pharetra aliquet viverra. Donec scelerisque tincidunt diam, eu fringilla urna auctor at.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+// Show the first tab by default
+$('.tabs-stage div').hide();
+$('.tabs-stage div:first').show();
+$('.tabs-nav li:first').addClass('tab-active');
+
+// Change tab class and display content
+$('.tabs-nav a').on('click', function(event){
+  event.preventDefault();
+  $('.tabs-nav li').removeClass('tab-active');
+  $(this).parent().addClass('tab-active');
+  $('.tabs-stage div').hide();
+  $($(this).attr('href')).show();
+});
+
+</script>
+
+
+ 
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.destacados-home').owlCarousel({
+            loop: true,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                600: {
+                    items: 1,
+                    nav: false
+                },
+                1000: {
+                    items: 1,
+                    dots:true,
+                    nav:true,
+                    mouseDrag:true,
+                }
+            }
+        })
+    })
+    $(document).ready(function() {
+        $('.lanzamientosExito').owlCarousel({
+            loop: true,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 2,
+                    nav: false
+                },
+                1000: {
+                    items: 4,
+                    dots:true,
+                    nav:true,
+                    mouseDrag:true,
+                    loop:true,
+                }
+            }
+        })
+    })
+    $(document).ready(function() {
+        $('.carruselPrime').owlCarousel({
+            loop: true,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 2,
+                    nav: false
+                },
+                1000: {
+                    items: 4,
+                    dots:true,
+                    nav:true,
+                    mouseDrag:true,
+                    loop:true,
+                }
+            }
+        })
+    })
+    $(document).ready(function() {
+        $('.accesosBancos').owlCarousel({
+            loop: true,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                600: {
+                    items: 2,
+                    nav: false
+                },
+                1000: {
+                    items: 2,
+                    dots:true,
+                    nav:true,
+                    mouseDrag:true,
+                    loop:true,
+                }
+            }
+        })
+    })
+    $(document).ready(function() {
+        $('.modaLanding').owlCarousel({
+            loop: true,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                },
+                600: {
+                    items: 3,
+                    nav: false
+                },
+                1000: {
+                    items: 3,
+                    dots:true,
+                    nav:true,
+                    mouseDrag:false,
+                    loop:false,
+                }
+            }
+        })
+    })
+</script>
+
+<!-- Ajuste de estilos-->
+<style>
+.titulosHome {margin-top: 30px !important; margin-bottom: 10px !important; }
+.titulosHome img {display:inline-block; vertical-align:bottom;}
+.sliderMundos {margin: 10px 0; }
+
+/* ++++++++++++++++ Estilos Trade  +++++++++++++++++++++++++++ */
+#div-gpt-ad-1442585579056-0 {overflow: hidden;}
+
+/* ++++++++++++++++ Estilos Rich Relevance  +++++++++++++++++++++++++++ */
+.bunting_recommendations {background: #fff !important; margin-top:15px;}
+.row-rich-relevant > .col-xs-12, .brands-carousel-row > .col-xs-12 {padding-left:15px; padding-right:15px; }
+.rich-relevant .item.product {background-color: white}
+a.item.product { padding: 10px; ;   min-height: 47px; height: 365px;  }
+.row-rich-relevant, .brands-carousel-row {margin: 15px 0; }
+.rich-relevant > .owl-nav > div, .brands-carousel > .owl-nav > div {background: transparent url(/images/category/home/iconos/arrows.png) 0 0 no-repeat; }
+
+/* ++++++++++++++++ ESTILOS DINÃMICOS  +++++++++++++++++++++++++++ */
+.offer-margin {margin-top: 10px; margin-bottom:10px;}
+.main-nav {background-color: rgba(0, 0, 0, 0.6);}
+
+/* ++++++++++++++++ Estilos Accesos Categorias  +++++++++++++++++++++++++++ */
+#div-gpt-ad-1442585579056-0 img {display: block; max-width:100%; height:auto; }
+div.category-row.col-md-9 {width: 72%; }
+div.col-md-3.dfp.hidden-xs {width: 28%; }
+.dfp .sky-home .top {margin-bottom: 0; }
+.dfp .title {margin-top: -3px; }
+.dfp .sky-home .top *, .dfp .sky-home .bottom * {width: initial !important; }
+.category-row .category-container {opacity: 1; }
+.category-row .category-container:hover {opacity: .9; }
+.ad-scroll-fixed {bottom: 0; height: 35px; position: fixed; z-index: 1000; left: 0; right: 0; text-align: center; width: initial; }
+
+/* ++++++++++++++++ Estilos Slider  +++++++++++++++++++++++++++ */
+.owl-theme .owl-nav .disabled {opacity: 0.3 !important; }
+.destacados-home .owl-prev {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; left: 0%; margin: 0 !important; position: absolute; top: 0; width: 3%; } 
+.destacados-home .owl-next {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; margin: 0 !important; position: absolute; right: 0%; top: 0; width: 3%; }
+.destacados-home .owl-prev:after {color: #000; content: '\e906'; font-family: 'ico-exito' !important; font-size: 20px; padding: 10px 0; left: 0; margin: 0; position: absolute; right: 0; background: #feea00; top: 43%; opacity: 0; transition: .3s ease-out; } 
+.destacados-home:hover .owl-prev:after {opacity: 1 }
+.destacados-home .owl-next:after {color: #000; content: '\e907'; font-family: 'ico-exito' !important; font-size: 20px; padding: 10px 0; left: 0; position: absolute; right: 0; background: #feea00; top: 43%; opacity: 0; transition: .3s ease-out; } 
+.destacados-home:hover .owl-next:after {opacity: 1 }
+.owl-theme .owl-dots .owl-dot span {background: #ffffff; border: 1px solid gainsboro; }
+
+
+
+/* ++++++++++++++++ ESTILOS LANZAMIENTOS  +++++++++++++++++++++++++++ */
+.lanzamientosExito .owl-item {padding: 0 5px; }
+.lanzamientosExito {margin:0;}
+.lanzamientosExito .owl-prev {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; left: 0%; margin: 0 !important; position: absolute; top: 0; width: 3%; } 
+.lanzamientosExito .owl-next {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; margin: 0 !important; position: absolute; right: 0%; top: 0; width: 3%; }
+.lanzamientosExito .owl-prev:after {bottom: 0; color: #000; content: '\e906'; font-family: 'ico-exito' !important; font-size: 30px; left: 0; margin: 0;  position: absolute; right: 0; top: 38%; }
+.lanzamientosExito .owl-prev:hover:after {right: 8%; }
+.lanzamientosExito .owl-next:after {bottom: 0; color: #000; content: '\e907'; font-family: 'ico-exito' !important; font-size: 30px; left: 0; margin: 0;  position: absolute; right: 0; top: 38%; }
+.lanzamientosExito .owl-next:hover:after {left: 8%; }
+.owl-theme .owl-dots .owl-dot span {background: #ffffff; border: 1px solid gainsboro; }
+
+/* ++++++++++++++++ ESTILOS MODA  +++++++++++++++++++++++++++ */
+
+.modaLanding .owl-item {padding: 0 5px; }
+.modaLanding {margin:0;}
+.modaLanding .owl-prev {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; left: 0%; margin: 0 !important; position: absolute; top: 0; width: 3%; } 
+.modaLanding .owl-next {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; margin: 0 !important; position: absolute; right: 0%; top: 0; width: 3%; }
+.modaLanding .owl-prev:after {bottom: 0; color: #000; content: '\e906'; font-family: 'ico-exito' !important; font-size: 30px; left: 0; margin: 0;  position: absolute; right: 0; top: 38%; }
+.modaLanding .owl-prev:hover:after {right: 8%; }
+.modaLanding .owl-next:after {bottom: 0; color: #000; content: '\e907'; font-family: 'ico-exito' !important; font-size: 30px; left: 0; margin: 0;  position: absolute; right: 0; top: 38%; }
+.modaLanding .owl-next:hover:after {left: 8%; }
+.owl-theme .owl-dots .owl-dot span {background: #ffffff; border: 1px solid gainsboro; }
+
+/* ++++++++++++++++ ESTILOS PRIME  +++++++++++++++++++++++++++ */
+
+.carruselPrime .owl-item {padding: 0 5px; }
+.carruselPrime {margin:0;}
+.carruselPrime .owl-prev {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; left: 0%; margin: 0 !important; position: absolute; top: 0; width: 3%; } 
+.carruselPrime .owl-next {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; margin: 0 !important; position: absolute; right: 0%; top: 0; width: 3%; }
+.carruselPrime .owl-prev:after {bottom: 0; color: #fff; content: '\e906'; font-family: 'ico-exito' !important; font-size: 28px; left: 0; margin: 0;  position: absolute; right: 0; top: 42%; background: black; height: 40px; }   
+.carruselPrime .owl-prev:hover:after {right: 8%; }
+.carruselPrime .owl-next:after {bottom: 0; color: #fff; content: '\e907'; font-family: 'ico-exito' !important; font-size: 30px; left: 0; margin: 0;  position: absolute; right: 0; top: 42%; height: 40px; background-color: black }
+.carruselPrime .owl-next:hover:after {left: 8%; }
+.owl-theme .owl-dots .owl-dot span {background: #ffffff; border: 1px solid gainsboro; }
+
+
+
+
+
+/* ++++++++++++++++ ESTILOS BANCOS  +++++++++++++++++++++++++++ */
+
+.owl-theme .owl-nav .disabled {opacity: 0.3 !important; }
+.accesosBancos .owl-prev {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; left: 0%; margin: 0 !important; position: absolute; top: 0; width: 3%; } 
+.accesosBancos .owl-next {background-color: rgba(34, 34, 34, 0) !important; border-radius: 0 !important; color: transparent !important; height: 100%; margin: 0 !important; position: absolute; right: 0%; top: 0; width: 3%; }
+.accesosBancos .owl-prev:after {color: #000; content: '\e906'; font-family: 'ico-exito' !important; font-size: 20px; padding: 10px 0; left: 0; margin: 0; position: absolute; right: 0; background: #feea00; top: 35%; opacity: 0; transition: .3s ease-out; } 
+.accesosBancos:hover .owl-prev:after {opacity: 1 }
+.accesosBancos .owl-next:after {color: #000; content: '\e907'; font-family: 'ico-exito' !important; font-size: 20px; padding: 10px 0; left: 0; position: absolute; right: 0; background: #feea00; top: 35%; opacity: 0; transition: .3s ease-out; } 
+.accesosBancos:hover .owl-next:after {opacity: 1 }
+.owl-theme .owl-dots .owl-dot span {background: #ffffff; border: 1px solid gainsboro; }
+
+
+
+
+.lanzamientosExito .offer-margin.dynamic-home a:after {background: #f97b00; color: white; content: 'Ver mÃ¡s'; font-size: 14px; left: 0; margin: 0 auto; opacity: 0; padding: 10px; position: absolute; right: 0; text-align: center; top: 35%; transition-delay: .1s; transition: .5s ease; width: 41%; border-radius: 3px; letter-spacing: 2px; }        
+.lanzamientosExito .offer-margin.dynamic-home a img {opacity: 1; transition: .6s ease; }
+.lanzamientosExito .offer-margin.dynamic-home a:hover img {opacity: .6 }
+.lanzamientosExito .offer-margin.dynamic-home a:hover:after {opacity: 1; }
+
+
+
+
+
+/* ++++++++++++++++ RICH RELEVANCE +++++++++++++++++++++++++++ */
+.rich-relevant .owl-prev:after {content: '\e906'; position: absolute; left: 0px; top: 57%; width: 30px; height: 55px; padding: 15px 0; font-family: 'ico-exito' !important; font-size: 20px; background: #feea00; text-align: center; }
+.rich-relevant .owl-next:after {content: '\e907'; position: absolute; right: : 0px; top: 57%; width: 30px; height: 55px; padding: 15px 0; font-family: 'ico-exito' !important; font-size: 20px; background: #feea00; text-align: center; }
+.rich-relevant .owl-prev, .rich-relevant .owl-next {width: 40px; overflow: hidden; font-size: 0; }
+.rich-relevant > .owl-nav > div, .brands-carousel > .owl-nav > div {background: none; margin-top: initial; overflow: hidden; opacity: 1; top: 0; width: 30px; z-index: 3; text-indent: 0; }
+.rich-relevant .item.product {margin:0 15px;}
+.row-rich-relevant, .brands-carousel-row {margin: 0; }
+.rich-relevant .product .col-image .image, #tabRecommended .rich-relevant .product .image {height: auto; }
+.rich-relevant a.item.product:hover {box-shadow: none; }
+.rich-relevant .item.product {margin: 5px; }
+.product .star-offer {top: 3px; }
+.product .name,  .product .brand,  .product .presentation,  .product .price,  .product .price-per-gram,  .product .other,  .product .before,  .product .quantity,  .product .returns-exchanges,  .product .delivery-point,  .product .seller-name,  .product .delivery-time,  .product .other-offers,  .product .available p {font-size: .9em; }
+.rich-relevant .product .col-price .price,  #tabRecommended .product .col-price .price {font-size: 1.4285em; }
+.rich-relevant .star-offer.until span {display: none !important; }
+.rich-relevant .star-offer .payment-card {display: none !important; }
+
+/*  CAMBIO ESTRELLA CARRUSEL - RICH */
+.rich-relevant .product .star-offer {background: none; height: 80px; right: 0 !important; top: 0 !important; width: 61px; background-color: #dc0b13; height: 30px; }
+.rich-relevant .product .star-offer div, .rich-relevant .product .star-offer div {line-height: 1em; font-size: 1.7em; font-weight: bold; left: 1px; text-align: center; top: 3px; width: 46px; }
+.rich-relevant .product .star-offer small {font-size: .9em; left: 38px; top: 12px; }
+.rich-relevant .star-offer {display: block !important; }
+.rich-relevant .product .col-name .name,  #tabRecommended .product .col-name .name {height: auto;}
+.rich-relevant .product .star-offer.untilCategory span {display: block; font-size: 0.7857em; left: 15px; top: 1px !important; }
+.rich-relevant .product .star-offer.untilCategory {height: 37px !important; }
+.rich-relevant .product .star-offer.untilCategory div {top: 12px !important; }
+.rich-relevant .product .star-offer.until div {top: 3px !important; }
+.rich-relevant .product .star-offer.untilCategory small {top: 21px !important; }
+.rich-relevant .product .price .payment-card {height: 26px; margin-left: 0; vertical-align: sub; }
+.rich-relevant span.dcount {font-size: 30px; font-weight: bold; }
+.rich-relevant .delivery-point { display:none !important; }
+.rich-relevant p.before.legal {font-size: .7em !important; }
+
+
+/* ++++++++++++++++ GO TOP +++++++++++++++++++++++++++ */
+
+#return-to-top {position: fixed; bottom: 20px; right: 20px; background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7); width: 50px; height: 50px; display: block; text-decoration: none; -webkit-border-radius: 35px; -moz-border-radius: 35px; border-radius: 35px; display: none; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; z-index: 444; }
+#return-to-top i {color: #fff; margin: 0; position: relative; left: 16px; top: 13px; font-size: 19px; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; } #return-to-top:hover {background: rgba(0, 0, 0, 0.9); }
+#return-to-top:hover i {color: #fff; top: 5px; }
+
+/* ++++++++++++++++ MEDIA QUERIES +++++++++++++++++++++++++++ */
+
+@media (max-width: 728px) {
+    .lanzamientosExito .offer-margin.dynamic-home a:hover:after {content: none;}
+    .lanzamientosExito .offer-margin.dynamic-home a:hover:before {content: none;}
+    .col-sm-4.offer-margin.dynamic-home a:hover:after {content: none;}
+    .col-sm-4.offer-margin.dynamic-home a:hover:before {content: none;}
+    .header-user-cart{padding-left: 0% !important}
+}
+
+@media (min-width: 768px){
+    .destacados-home .owl-dots {border-radius: 10px 10px 0 0;  height: 21px; bottom: 6px; padding: 0 10px; position: absolute; right: 45%; width: auto; }
+    .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {background: #a2a2a2; }
+    body {background-color: #ececec;}
+
+}
+@media (max-width: 480px){
+    div.category-row.col-md-9 {width: initial;}
+    .destacados-home {margin-bottom: 5px;}
+    .destacados-home img {width: 655px !important; max-width: initial; margin-left: -40px; }    
+    .destacados-home .owl-item {overflow:hidden;}
+    .col-sm-6.offer-margin {padding: 5px; margin: 0; }
+    .col-sm-4.offer-margin.dynamic-home {width: 49%; display: inline-block; padding: 5px; margin: 0; }
+    .lanzamientosExito .owl-item.active, .lanzamientosExito .owl-item.cloned, .lanzamientosExito .owl-item, .carruselPrime .owl-item.active,  {padding: 0 5px; margin:0; }
+    
+
+    /* ++++++++++++++++ RICH MOBILE +++++++++++++++++++++++++++ */
+    .rich-relevant .product .col-image {width: 48%; float: left; margin-right: 1%; margin-bottom: 0; padding: 0 10px; margin-left: 1%; }    .rich-relevant a.item.product {height: auto; min-height: 88px;}
+    .rich-relevant .product .star-offer {right: inherit; left: 0;}
+    .rich-relevant .product .col-image .image, #tabRecommended .rich-relevant .product .image {width: 100%; }
+    .rich-relevant .product .col-image .image, #tabRecommended .rich-relevant .product .image {height: auto;}
+    .rich-relevant .product .col-image .image, #tabRecommended .rich-relevant .product .image {border:none;}
+    .rich-relevant a.item.product:hover {box-shadow:none;}
+    .rich-relevant .delivery-point {display: none !important; }
+    .row-rich-relevant > .col-xs-12 {min-height: auto;}
+    .rich-relevant > .owl-nav > div, .brands-carousel > .owl-nav > div { width: 20px;}
+    .owl-prev:after, .owl-next:after {top: 43%;}
+    .rich-relevant > .owl-nav > div {height: 161px; width: 30px; top: 0; margin-top: 15px; }
+    .rich-relevant .item.product {padding: 5px 0; } 
+    .star-offer {display: none !important; }
+    .row-rich-relevant .rich-relevant {padding-bottom:0px; }
+    .rich-relevant .item.product {margin: 15px 10px 0 10px; }
+    .rich-relevant .product .col-price, #tabRecommended .product .col-price {margin-bottom: 0; min-height: auto;} 
+    .rich-relevant .owl-next:after, .rich-relevant .owl-prev:after {top: 26%; height: 28px; padding: 0;}
+    .rich-relevant .col-name {float: right; width: 49%; }
+    .rich-relevant .col-price {width: 49%; float: right; }
+}
+
+/* NUEVO HOME */
+
+@media (max-width: 728px) {
+.containerOneCol  .col-sm-12.offer-margin a, .containerTwoCol .col-sm-6.offer-margin a, .TwoNFourColumnsContainer .col-sm-6.offer-margin a, .TwoNFourColumnsContainer .col-sm-4 a, .FourCol .col-sm-4 a {
+    display: block;
+    background:black;
+}
+
+.containerOneCol .col-sm-12.offer-margin img, .containerTwoCol  .col-sm-6.offer-margin img, .TwoNFourColumnsContainer .col-sm-6.offer-margin img, .TwoNFourColumnsContainer .col-sm-4 img, .FourCol .col-sm-4 img {
+    opacity: .93;
+}
+
+}
+
+</style>
+<!-- Return to Top -->
+<a href="javascript:" id="return-to-top" style="display: none;"><i class="glyphicon glyphicon-chevron-up"></i></a>
+
+
+<script>
+
+// ===== Scroll to Top ==== 
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+</script>
+    
+
+</section>
+
+
+

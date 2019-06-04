@@ -1,0 +1,268 @@
+﻿{
+	"departamento" : [
+		{
+			"nombreDep" : "Antioquia",
+			"municipios" : [
+				{
+					"domicilio" : "",
+					"nombreMun" : "Apartadó",
+					"almacenes" : [
+						{
+							"tipo"		: "Hipermercado",
+							"nombre"	: "Éxito Apartadó",
+							"direccion"	: "Calle 103 con Carrera 100 C. C. Plaza del Rio",
+							"telefonos"	: [ "(4) 829 0011", "(4) 829 0016" ],
+							"horarios"	: [ "Todos los días de 8:30 a.m. a 8:30 p.m." ]
+						}
+					]
+				},
+				
+				{
+					"domicilio" : "(4) 514 6666",
+					"nombreMun" : "Medellín",
+					"almacenes" : [
+						
+						
+						
+									{
+										"tipo"		: "Vecino",
+										"nombre"	: "Éxito Del Este",
+										"direccion"	: "Carrera 25 No. 3 - 1 (Local 9901)",
+										"telefonos"	: [ "(4) 418 00 00" ],
+										"horarios"	: [ "Lunes a jueves 8:30 a.m. a 9:00 p.m.", "Viernes y Sábado 6:00 a.m. a 12:00 p.m.", "Domingos y festivos 6:00 a.m. a 9:00 p.m." ]
+									},
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Éxito Envigado",
+										"direccion"	: "Carrera 48 No. 34 Sur - 29",
+										"telefonos"	: [ "(4) 271 3030" ],
+										"horarios"	: [ "Lunes a sábado 8:30 a.m. a 9:00 p.m.", "Domingos y festivos 9:00 a.m. a 8:00 p.m." ]
+
+									},
+									{
+										"tipo"		: "Supermercado",
+										"nombre"	: "Éxito Envigado Centro",
+										"direccion"	: "Calle 36 No. 43 - 40",
+										"telefonos"	: [ "(4) 276 0464", "(4) 276 5538" ],
+										"horarios"	: [ "Lunes a sábado 8:00 a.m. a 9:00 p.m.", "Domingos y festivos 9:00 a.m. a 8:00 p.m." ]
+									},
+						
+						
+						
+						
+						
+									{
+										"tipo"		: "Supermercado",
+										"nombre"	: "Éxito Laureles",
+										"direccion"	: "Carrera 81 No. 37 - 100",
+										"telefonos"	: [ "(4) 413 2424" ],
+										"horarios"	: [ "Lunes a sábado: 8:30 a.m. a 9:00 p.m.", "Domingos y festivos: 9:00 a.m. a 8:00 p.m." ]
+									},
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Éxito Poblado",
+										"direccion"	: "Calle 10 No. 43E - 135",
+										"telefonos"	: [ "(4) 319 7200" ],
+										"horarios"	: [ "Lunes a sábado: 8:30 a.m. a 9:00 p.m.", "Domingos y festivos: 9:00 a.m. a 8:00 p.m." ]
+									},
+						
+						
+
+					]
+				},
+				
+				
+				
+				
+				
+			]
+		},
+		
+
+
+		{
+			"nombreDep" : "Caldas",
+			"municipios" : [
+				{
+					"domicilio" : "",
+					"nombreMun" : "Manizales",
+					"almacenes" : [
+						{
+							"tipo"		: "Supermercado",
+							"nombre"	: "Éxito Fundadores",
+							"direccion"	: "Calle 33 No. 20 - 72 C. C.  Fundadores",
+							"telefonos"	: [ "(6) 889  4003" ],
+							"horarios"	: ["Lunes a sábado 9:00 a.m. a 9:00 p.m.", "Domingos y festivos 9:00 a.m. a 8:00 p.m."]
+						},
+						{
+							"tipo"		: "Supermercado",
+							"nombre"	: "Éxito Manizales Cra. 23",
+							"direccion"	: "Carrera 23 Calle 19",
+							"telefonos"	: [ "(6) 880 0520" ],
+							"horarios"	: ["Lunes a sábado 8:00 a.m a 9:00 p.m.", "Domingos y festivos 8:00 a.m a 7:00 p.m."]
+						},
+						{
+							"tipo"		: "Hipermercado",
+							"nombre"	: "Éxito Manizales Centro",
+							"direccion"	: "Calle 19 No. 22 - 32",
+							"telefonos"	: [ "(6) 8823947" ],
+							"horarios"	: ["Lunes a sábado 8:30 a.m a 8:30 p.m.", "Domingos y festivos 9:00 a.m. a 7:00 p.m."]
+						},
+						{
+							"tipo"		: "Vecino",
+							"nombre"	: "Éxito Manizales Plaza",
+							"direccion"	: "Carrera 17 No. 23 - 38",
+							"telefonos"	: [ "(6) 8730588" ],
+							"horarios"	: ["Lunes a sábado 7:30 a.m a 8:00 p.m.", "Domingos y festivos 9:00 a.m. a 6:00 p.m."]
+						},
+						{
+							"tipo"		: "Supermercado",
+							"nombre"	: "Éxito San Cancio",
+							"direccion"	: "Calle 66, Carrera 28 C. C.  San Cancio",
+							"telefonos"	: [ "(6) 887 1917" ],
+							"horarios"	: ["Lunes a sábado 9:00 a.m. a 9:00 p.m.", "Miércoles 9:00 am a 8:00 p.m."]
+						}
+					]
+				}
+			]
+		},
+		
+		
+		
+		
+		
+		{
+			"nombreDep" : "Cundinamarca",
+			"municipios" : [
+				{
+					"domicilio" : "(1) 424 2400",
+					"nombreMun" : "Bogotá",
+					"almacenes" : [
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Exito Américas",
+										"direccion"	: "Avenida Americas, No. 68A - 94",
+										"telefonos"	: [ "(1) 419 1400" ],
+										"horarios"	: ["Lunes a sábado 8:00 a.m. a 9:30 p.m.", "Domingos y festivos 8:00 a.m. a 9:00 p.m."]
+									},
+						
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Exito Calle 80",
+										"direccion"	: "Carrera 59A No. 79 - 30",
+										"telefonos"	: [ "(1) 660 5300" ],
+										"horarios"	: ["Todos los días de 8:00 a.m. a 9:00 p.m."]
+									},
+						
+										{
+											"tipo"		: "Hipermercado",
+											"nombre"	: "Éxito Country",
+											"direccion"	: "Calle 134 No. 9 - 51 ",
+											"telefonos"	: [ "(1) 592 2460" ],
+											"horarios"	: ["Lunes a sábado 8:00 a.m. a 9:30 p.m.", "Domingos y festivos 8:00 a.m. a 9:00 p.m."]
+										},
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Éxito La Colina",
+										"direccion"	: "Avenida Boyacá, Carrera 72 No. 146B ",
+										"telefonos"	: [ "(1) 592 2400" ],
+										"horarios"	: ["Lunes a sábado 8:00 a.m. a 9:30 p.m.", "Domingos y festivos 8:00 a.m. a 9:00 p.m."]
+									},
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Exito Occidente",
+										"direccion"	: "Carrera 114A No.78B - 85",
+										"telefonos"	: [ "(1) 291 3111 Ext. 213" ],
+										"horarios"	: ["Lunes a sábado 8:00 a.m. a 9:30 p.m.", "Domingos y festivos 8:00 a.m. a 9:00 p.m."]
+									},
+						
+					]
+				},
+				
+				
+				
+			]
+		},
+		
+		
+		{
+			"nombreDep" : "Meta",
+			"municipios" : [
+				{
+					"domicilio" : "",
+					"nombreMun" : "Villavicencio",
+					"almacenes" : [
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Exito Sabana",
+										"direccion"	: "Avenida 40 Calle Septima No. 45 - 185, La Esperanza",
+										"telefonos"	: [ "(9) 670 3333" ],
+										"horarios"	: ["Todos los días de 8:00 a.m. a 9:00"]
+									}
+					]
+				}
+			]
+		},
+		
+		{
+			"nombreDep" : "Norte de Santander",
+			"municipios" : [
+				{
+					"domicilio" : "",
+					"nombreMun" : "Cúcuta",
+					"almacenes" : [
+						
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Exito San Mateo",
+										"direccion"	: "Avenida Demetrio Mendoza con Diagonal Santander",
+										"telefonos"	: [ "(7) 576 6108" ],
+										"horarios"	: ["lunes y domingos de 8:00am a 9:30 p.m.", "Sábados 8:00 a.m. a 10:00 p.m."]
+									}
+					]
+				}
+			]
+		},
+		
+		
+		
+		
+		{
+			"nombreDep" : "Santander",
+			"municipios" : [
+				{
+					"domicilio" : "",
+					"nombreMun" : "Bucaramanga",
+					"almacenes" : [
+									{
+										"tipo"		: "Hipermercado",
+										"nombre"	: "Éxito Bucaramanga (La Rosita)",
+										"direccion"	: "Carrera 17 No. 45 - 77",
+										"telefonos"	: [ "(7) 680 8888" ],
+										"horarios"	: ["Lunes a viernes 7:30 a.m. a 9:00 p.m.", "sábado 7:30am a 10:00 pm", "Domingos y festivos 8:00 a.m. a 7:30 p.m."]
+									},
+									{
+										"tipo"		: "Vecino",
+										"nombre"	: "Éxito Bucaramanga Centro",
+										"direccion"	: "Calle 36 No.15 - 33",
+										"telefonos"	: [ "(7) 6304446", "(7) 6421385" ],
+										"horarios"	: ["Lunes a sábado 8:00 a.m. a 8:30 p.m.", "Domingos y festivos 8:30 a.m. a 5:00 p.m."]
+									},
+						
+					]
+				},
+				
+				
+			]
+		},
+		
+		
+		
+		}
+	]
+}

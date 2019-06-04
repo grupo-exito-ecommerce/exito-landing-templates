@@ -1,0 +1,2022 @@
+<link rel="stylesheet" href="https://exitocol.vteximg.com.br/arquivos/centro-ayuda.css?version=1">
+<link rel="stylesheet" type="text/css" media="screen" href="https://exitocol.vteximg.com.br/arquivos/bootstrap.min-exito.css?version=1">
+<script type="text/javascript" src="https://exitocol.vteximg.com.br/arquivos/jquery-2.2.0.min.js?version=1"></script>
+<script type="text/javascript" src="https://exitocol.vteximg.com.br/arquivos/bootstrap.min-exito.js?version=1"></script>
+
+<div id="preguntas-frecuentes" style="text-align: justify; font-size: 14px; padding: 0px 55px;">
+	<div class="row">
+		<h1 class="text-center"><span class="glyphicon glyphicon-info-sign"></span> <span class="text-muted">Centro</span> de Ayuda </h1>
+		<hr>
+		<nav class="col-md-12 navbar navbar navbar-default" role="navigation">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#centrodeayuda">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand visible-xs" href="#">Preguntas Frecuentes</a>
+			</div>
+			<div class="collapse navbar-collapse" id="centrodeayuda">
+		<ul class="nav navbar-nav">
+					<li class="active"><a href="/centro-ayuda-preguntas-frecuentes">Preguntas Frecuentes</a></li>
+					<li><a href="/centro-ayuda-cambios-devoluciones">Politica de Cambios y Devoluciones</a></li>
+					<li><a href="/centro-ayuda-contacto">Contacto</a></li>
+					<li><a href="/centro-ayuda-almacenes">Almacenes</a></li>
+					<li><a href="#" class="nav-centroayuda-chat open-emt-chat"><span class="glyphicon glyphicon-comment"></span> Chat</a></li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+	<div class="row">
+		<div class="col-md-1">
+			<p class="text-center centro-ayuda-icon"><span class="glyphicon glyphicon-question-sign hidden-xs"></span></p>
+		</div>
+		<div class="col-md-11">
+			<p>Queremos ayudarle en su compra. A continuación encontrará un listado de preguntas y respuestas que le ayudarán a resolver sus inquietudes y facilitarán su compra a través de www.exito.com.</p>
+			<p>Las encontrará clasificadas por áreas para que pueda ubicarlas más fácilmente.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="panel-group" id="accordionquestions" role="tablist" aria-multiselectable="true">
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro1">
+							<h4 class="panel-title">
+								<a role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#comocomprar" aria-expanded="true" aria-controls="comocomprar">
+									Cómo comprar
+								</a>
+							</h4>
+						</div>
+						<div id="comocomprar" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro1">
+							<div class="panel-body">
+								<div class="panel-group" id="como-comprar-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-comoComprar">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#como-registro" aria-expanded="true" aria-controls="como-registro">
+													1- ¿Cómo me registro en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="como-registro" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-comoComprar">
+											<div class="panel-body">
+												<p>Registrarse es muy fácil, solo hay que:</p>
+												<ul>
+													<li>Ingresar por Registrarse (opción ubicada en la parte superior derecha)</li>
+													<li>Ir a la opción de No estoy registrado</li>
+													<li>Diligenciar todos los datos allí solicitados</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#actualizar-datos" aria-expanded="false" aria-controls="actualizar-datos">
+													2- ¿Cómo actualizo mis datos?
+												</a>
+											</h4>
+										</div>
+										<div id="actualizar-datos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-comoComprar">
+											<div class="panel-body">
+												<p>Para actualizar los datos debe ingresar por Iniciar sesión. Allí debe digitar su usuario y clave. Luego, en el menú principal encontrará Mi cuenta. Haga clic y verá allí sus datos para actualizarlos.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#que-productos-comprar" aria-expanded="false" aria-controls="que-productos-comprar">
+													3-	¿Qué productos puedo comprar en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="que-productos-comprar" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-comoComprar">
+											<div class="panel-body">
+												<p>www.exito.com propone a sus usuarios principalmente productos de gran consumo, alimentos frescos, frutas y verduras, productos de salud y belleza, productos digitales, implementos electrónicos, electrodomésticos, equipos de sonido, productos de cuidado personal, muebles de exterior e interior, implementos para el hogar y la decoración, juguetes, implementos deportivos, ropa y accesorios, productos de ferretería, productos culturales entre otros.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#como-comprar-exitocom" aria-expanded="false" aria-controls="como-comprar-exitocom">
+													4-	¿Cómo comprar en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="como-comprar-exitocom" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-comoComprar">
+											<div class="panel-body">
+												<h4>Para comprar en www.exito.com, debe seguir los siguientes pasos:</h4>
+												<ul>
+													<li>1- Ingrese a www.exito.com</li>
+													<li>2- Regístrese (la opción de registro está ubicado en la parte superior derecha de la página)</li>
+													<li>3- Ingrese el producto al carrito</li>
+													<li>4- Clic en la opción Comprar, ubicado en su carrito de compras</li>
+													<li>5- Clic en Ir a pagar</li>
+													<li>6-Ingrese los datos de entrega o escoja una de las direcciones que ya tenga predeterminadas</li>
+													<li>7- Elija el medio de pago</li>
+													<li>8- Ingrese los datos de la tarjeta o del medio de pago elegido</li>
+													<li>9- Confirme su pedido</li>
+													<li>10- Clic en Compra Segura</li>
+												</ul>
+												<p><strong>Nota: Al finalizar la transacción le debe mostrar la confirmación del pedido y le llegará automáticamente un correo de confirmación al mail registrado.</strong></p>
+												<p>Si desea comprar en www.exito.com y recoger en el almacén a través de <strong>Punto Entrega:</strong></p>
+												<ul>
+													<li>1- Ingrese a www.exito.com</li>
+													<li>2- Regístrese (la opción de registro está ubicado en la parte superior derecha de la página)</li>
+													<li>3- Ingrese el producto al carrito</li>
+													<li>4- Clic en la opción Comprar, ubicado en su carrito de compras</li>
+													<li>5- Escoja la opción de dirección de entrega, eligiendo la opción PUNTO ENTREGA, ahorrándose los gastos de envío y escogiendo el lugar de recogida según sus preferencias</li>
+													<li>6-Escoja el departamento, la ciudad y el almacén en que desea recoger su producto</li>
+													<li>7- Elija el medio de pago</li>
+													<li>8- Ingrese los datos de la tarjeta o del medio de pago elegido</li>
+													<li>9- Confirme su pedido</li>
+													<li>10- Clic en Compra Segura</li>
+												</ul>
+												<p><strong>Nota: Al finalizar la transacción le debe mostrar la confirmación del pedido y le llegará automáticamente un correo de confirmación al mail registrado.</strong></p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta5-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#comprar-en-exterior" aria-expanded="false" aria-controls="comprar-en-exterior">
+													5.	¿Puedo comprar productos desde el exterior para que sean entregados en Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="comprar-en-exterior" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta5-comoComprar">
+											<div class="panel-body">
+												<p>Sí. A través de www.exito.com nuestros clientes en el exterior pueden enviar desde cualquier parte del mundo cualquier tipo de producto, a sus familiares o amigos en Colombia.</p>
+												<p>Productos de tecnología, vestuario, ropa hogar y electrohogar, se entregan a más 1.200 poblaciones colombianas. Productos de mercado sólo se entregan en las áreas metropolitanas de Armenia, Bogotá, Bucaramanga, Barranquilla, Cartagena, Cali, Cúcuta, Ibague, Medellín, Montería, Manizales, Neiva, Pereira, Rionegro (Antioquia), Sincelejo, Santa Marta, Valledupar y Villavicencio.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta6-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#identifico-productos" aria-expanded="false" aria-controls="identifico-productos">
+													6.	¿Cómo identifico los productos en oferta?
+												</a>
+											</h4>
+										</div>
+										<div id="identifico-productos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta6-comoComprar">
+											<div class="panel-body">
+												<p>En www.exito.com, los productos en oferta están claramente identificados en el área de la fotografía con la estrella, notificando el porcentaje de descuento.</p>
+
+												<p>Igualmente en la página de inicio encontrará en el menú principal la sección "ofertas", que reúne los productos a precios con grandes ahorros.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta7-comoComprar">
+											<h4 class="panel-title">
+												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#como-comprar-respuestas" href="#entrega-otropais" aria-expanded="false" aria-controls="entrega-otropais">
+													7.	¿Puedo comprar productos para que sean entregados en otro país diferente a Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="entrega-otropais" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta7-comoComprar">
+											<div class="panel-body">
+												<p>En la actualidad y por razones de orden logístico, el servicio de entrega sólo está disponible en Colombia.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro2">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#mediospago" aria-expanded="false" aria-controls="mediospago">
+									Medios de pago
+								</a>
+							</h4>
+						</div>
+						<div id="mediospago" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro2">
+							<div class="panel-body">
+								<div class="panel-group" id="medios-pago-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-mediosPago">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#medios-pago-respuestas" href="#formas-pago" aria-expanded="true" aria-controls="formas-pago">
+													1.	¿Qué formas de pago están disponibles en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="formas-pago" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-mediosPago">
+											<div class="panel-body">
+												<p>En www.exito.com hay una gran variedad de medios de pago: </p>
+												<ul>
+													<li>Tarjeta Éxito</li>
+													<li>Tarjeta de Crédito: Visa, MasterCard, American Express, Diners.</li>
+													<li>Tarjeta Débito (cuenta corriente o de ahorros)</li>
+													<li>Tarjeta Codensa</li>
+													<li>Pago contra entrega, solo para pedidos de mercado: efectivo, Tarjeta de Crédito, Tarjeta Débito.</li>
+													<li>Consignación en cuenta Bancolombia</li>
+													<li>Pago en cajas de Almacenes Éxito, Carulla, Surtimax o Super Inter (efectivo, Tarjeta Debito, Tarjeta de Crédito, Tarjeta Éxito y Tarjetas privadas)</li>
+													<li>Tarjeta presente (opción empleados Grupo Éxito)</li>
+												</ul>
+												<p><strong>Actualmente no aceptamos los sistemas de pago Plan Separe, Cheques Posfechados, Tarjetas Cambio, Puntos Éxito y Tarjetas Regalo en www.exito.com</strong></p>
+
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-mediosPago">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#medios-pago-respuestas" href="#pago-consignacion" aria-expanded="true" aria-controls="pago-consignacion">
+													2. ¿Cómo realizar pago por consignación?
+												</a>
+											</h4>
+										</div>
+										<div id="pago-consignacion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-mediosPago">
+											<div class="panel-body">
+												<p>El pago por consignación debe hacerse en cualquiera de las oficinas Bancolombia con el formato de consignación que recibe en su correo electrónico después de la compra, el cual tiene la información relacionada con su pedido y el valor a pagar. En caso de no recibir dicho formato, el pago puede hacerse de la siguiente forma:</p>
+												<ul>
+													<li>Formato de recaudo</li>
+													<li>Cuenta Corriente Bancolombia # 00100883365</li>
+													<li>Recuerde que en el campo referencia debe escribir su número de pedido</li>
+													<li>La copia de la consignación se debe enviar al correo: Financiera.ComercioDirecto@grupo-exito.com</li>
+												</ul>
+												<p>No se acepta consignación de cheques.</p>
+												<p>Después de realizada la consignación en el banco, la compra será aprobada máximo en un plazo de 24 horas.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-mediosPago">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#medios-pago-respuestas" href="#pago-efectivo" aria-expanded="true" aria-controls="pago-efectivo">
+													3. ¿Cuál es el procedimiento para pago en efectivo?
+												</a>
+											</h4>
+										</div>
+										<div id="pago-efectivo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-mediosPago">
+											<div class="panel-body">
+												<p>Para realizar el pago en efectivo, debe seguir los siguientes pasos:</p>
+												<ol>
+													<li>Elija los productos en www.exito.com y seleccione como forma de pago "PAGO EN ALMACENES *".</li>
+													<li>A su correo llegará un código PIN (número de pedido) para realizar el pago.</li>
+													<li>Acérquese con el código a cualquier puesto de pago en los almacenes del Grupo Éxito (Éxito, Carulla, Surtimax o Superinter), dentro de las próximas 24 horas a la llegada del correo electrónico. Si no lo hace en este lapso de tiempo, su pedido quedará automáticamente cancelado.</li>
+													<li>Conserve su tirilla de pago</li>
+												</ol>
+												<p> <strong>* En esta Forma de Pago puede utilizar los siguientes medios: Efectivo, tarjeta crédito, tarjeta débito, tarjeta Éxito, tarjeta regalo.</strong></p>
+
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-mediosPago">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#medios-pago-respuestas" href="#demora-aprobar-pedidos" aria-expanded="true" aria-controls="demora-aprobar-pedidos">
+													4. ¿Por qué se demoran en aprobar mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="demora-aprobar-pedidos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-mediosPago">
+											<div class="panel-body">
+												<p>Cuando hace pagos por medio de tarjetas de crédito, su entidad bancaria hace varios procesos de aseguramiento para confirmar la veracidad de la compra; estos tiempos varían según el Banco y se salen completamente de la responsabilidad de www.exito.com. Una vez la entidad bancaria haya aprobado el pago, comienza a correr el tiempo de entrega prometido.</p>							
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro3">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#entregas" aria-expanded="false" aria-controls="entregas">
+									Entregas
+								</a>
+							</h4>
+						</div>
+						<div id="entregas" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro3">
+							<div class="panel-body">
+								<div class="panel-group" id="entregas-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#contar-promesa-entrega" aria-expanded="true" aria-controls="contar-promesa-entrega">
+													1. ¿A partir de qué momento comienza a contar mi promesa de entrega?
+												</a>
+											</h4>
+										</div>
+										<div id="contar-promesa-entrega" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-entregas">
+											<div class="panel-body">
+												<p>La promesa de entrega pactada por parte de www.exito.com comienza a correr a partir de la aprobación del pedido, la cual será notificada a través de correo electrónico.</p>
+												<p>Cuando hace pagos por medio de tarjetas de crédito, el tiempo de aprobación del pedido corre por cuenta de su Banco. La entidad bancaria hace varios procesos de aseguramiento para confirmar la veracidad de la compra; estos tiempos varían según el Banco y se salen completamente de la responsabilidad de www.exito.com. Una vez la entidad bancaria haya aprobado el pago, comienza a correr el tiempo de entrega prometido.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#cuanto-tarda-pedido" aria-expanded="true" aria-controls="cuanto-tarda-pedido">
+													2. ¿Cuánto tarda en llegar mi pedido (no mercado)?
+												</a>
+											</h4>
+										</div>
+										<div id="cuanto-tarda-pedido" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-entregas">
+											<div class="panel-body">
+												<p><strong>Nuestra promesa de entrega para productos diferentes a mercado es de 7 a 10 días hábiles para todos los destinos.</strong></p>
+
+												<div class="col-xs-12 col-md-6">
+													<a class="btn btn-primary col-xs-12" role="button" data-toggle="collapse" href="#collapse-cobertura" aria-expanded="false" aria-controls="collapse-cobertura">
+														Ciudades y Municipios principales
+													</a>
+													<div class="col-xs-12 col-md-12 ciudades-principales img-thumbnail">
+														<div class="collapse" id="collapse-cobertura">
+															<dl class="dl-horizontal">
+																<dt>Barbosa</dt><dd>Antioquia</dd>
+																<dt>Bello</dt><dd>Antioquia</dd>
+																<dt>Caldas</dt><dd>Antioquia</dd>
+																<dt>Carmen de Viboral</dt><dd>Antioquia</dd>
+																<dt>Copacabana</dt><dd>Antioquia</dd>
+																<dt>El Retiro</dt><dd>Antioquia</dd>
+																<dt>Envigado</dt><dd>Antioquia</dd>
+																<dt>Girardota</dt><dd>Antioquia</dd>
+																<dt>Guarne</dt><dd>Antioquia</dd>
+																<dt>Itagüí</dt><dd>Antioquia</dd>
+																<dt>La Ceja</dt><dd>Antioquia</dd>
+																<dt>La Estrella</dt><dd>Antioquia</dd>
+																<dt>Marinilla</dt><dd>Antioquia</dd>
+																<dt>Medellín</dt><dd>Antioquia</dd>
+																<dt>Rionegro</dt><dd>Antioquia</dd>
+																<dt>Sabaneta</dt><dd>Antioquia</dd>
+																<dt>San Antonio de Prado</dt><dd>Antioquia</dd>
+																<dt>Santuario</dt><dd>Antioquia</dd>
+																<dt>Barranquilla</dt><dd>Atlántico</dd>
+																<dt>Galapa</dt><dd>Atlántico</dd>
+																<dt>Malambo</dt><dd>Atlántico</dd>
+																<dt>Soledad</dt><dd>Atlántico</dd>
+																<dt>Cartagena</dt><dd>Bolivar</dd>
+																<dt>La Boquilla</dt><dd>Bolivar</dd>
+																<dt>Turbaco</dt><dd>Bolivar</dd>
+																<dt>Chiquinquirá</dt><dd>Boyacá</dd>
+																<dt>Duitama</dt><dd>Boyacá</dd>
+																<dt>Paipa</dt><dd>Boyacá</dd>
+																<dt>Sogamoso</dt><dd>Boyacá</dd>
+																<dt>Tibasosa</dt><dd>Boyacá</dd>
+																<dt>Tunja</dt><dd>Boyacá</dd>
+																<dt>Chinchiná</dt><dd>Caldas</dd>
+																<dt>Manizales</dt><dd>Caldas</dd>
+																<dt>Villamaría</dt><dd>Caldas</dd>
+																<dt>Yopal</dt><dd>Casanare</dd>
+																<dt>Caloto</dt><dd>Cauca</dd>
+																<dt>Miranda</dt><dd>Cauca</dd>
+																<dt>Popayán</dt><dd>Cauca</dd>
+																<dt>Puerto Tejada</dt><dd>Cauca</dd>
+																<dt>Santander de Quilichao</dt><dd>Cauca</dd>
+																<dt>Villa Rica</dt><dd>Cauca</dd>
+																<dt>Valledupar</dt><dd>Cesar</dd>
+																<dt>Cereté</dt><dd>Córdoba</dd>
+																<dt>Ciénaga de oro</dt><dd>Córdoba</dd>
+																<dt>Lorica</dt><dd>Córdoba</dd>
+																<dt>Montería</dt><dd>Córdoba</dd>
+																<dt>Planeta Rica</dt><dd>Córdoba</dd>
+																<dt>Sahagún</dt><dd>Córdoba</dd>
+																<dt>Bogotá</dt><dd>Cundinamarca</dd>
+																<dt>Bosa</dt><dd>Cundinamarca</dd>
+																<dt>Briceño</dt><dd>Cundinamarca</dd>
+																<dt>Cajicá</dt><dd>Cundinamarca</dd>
+																<dt>Chía</dt><dd>Cundinamarca</dd>
+																<dt>Chinauta</dt><dd>Cundinamarca</dd>
+																<dt>Cota</dt><dd>Cundinamarca</dd>
+																<dt>Facatativá</dt><dd>Cundinamarca</dd>
+																<dt>Fontibón</dt><dd>Cundinamarca</dd>
+																<dt>Funza</dt><dd>Cundinamarca</dd>
+																<dt>Fusagasugá</dt><dd>Cundinamarca</dd>
+																<dt>Gachancipá</dt><dd>Cundinamarca</dd>
+																<dt>Girardot</dt><dd>Cundinamarca</dd>
+																<dt>La Calera</dt><dd>Cundinamarca</dd>
+																<dt>Madrid</dt><dd>Cundinamarca</dd>
+																<dt>Mosquera</dt><dd>Cundinamarca</dd>
+																<dt>Ricaurte</dt><dd>Cundinamarca</dd>
+																<dt>Sibaté</dt><dd>Cundinamarca</dd>
+																<dt>Soacha</dt><dd>Cundinamarca</dd>
+																<dt>Sopo</dt><dd>Cundinamarca</dd>
+																<dt>Suba</dt><dd>Cundinamarca</dd>
+																<dt>Tabio</dt><dd>Cundinamarca</dd>
+																<dt>Tenjo</dt><dd>Cundinamarca</dd>
+																<dt>Tocancipá</dt><dd>Cundinamarca</dd>
+																<dt>Ubaté</dt><dd>Cundinamarca</dd>
+																<dt>Zipaquirá</dt><dd>Cundinamarca</dd>
+																<dt>Neiva</dt><dd>Huila</dd>
+																<dt>Ciénaga</dt><dd>Magdalena</dd>
+																<dt>Fundación</dt><dd>Magdalena</dd>
+																<dt>Gaira</dt><dd>Magdalena</dd>
+																<dt>Santa Marta</dt><dd>Magdalena</dd>
+																<dt>Taganga</dt><dd>Magdalena</dd>
+																<dt>Villavicencio</dt><dd>Meta</dd>
+																<dt>Ipiales</dt><dd>Nariño</dd>
+																<dt>Pasto</dt><dd>Nariño</dd>
+																<dt>Cúcuta</dt><dd>Norte de Santander</dd>
+																<dt>La Parada</dt><dd>Norte de Santander</dd>
+																<dt>Los Patios</dt><dd>Norte de Santander</dd>
+																<dt>Villa del Rosario</dt><dd>Norte de Santander</dd>
+																<dt>Armenia</dt><dd>Quindio</dd>
+																<dt>Calarcá</dt><dd>Quindio</dd>
+																<dt>Circacia</dt><dd>Quindio</dd>
+																<dt>La Tebaida</dt><dd>Quindio</dd>
+																<dt>Montenegro</dt><dd>Quindio</dd>
+																<dt>Quimbaya</dt><dd>Quindio</dd>
+																<dt>Cerritos</dt><dd>Risaralda</dd>
+																<dt>Cerritos</dt><dd>Dosquebradas</dd>
+																<dt>Pereira</dt><dd>Risaralda</dd>
+																<dt>Santa Rosa de Cabal</dt><dd>Risaralda</dd>
+																<dt>Bucaramanga</dt><dd>Santander</dd>
+																<dt>Floridablanca</dt><dd>Santander</dd>
+																<dt>Girón</dt><dd>Santander</dd>
+																<dt>Lebrija</dt><dd>Santander</dd>
+																<dt>Piedecuesta</dt><dd>Santander</dd>
+																<dt>Corozal</dt><dd>Sucre</dd>
+																<dt>Coveñas</dt><dd>Sucre</dd>
+																<dt>Morroa</dt><dd>Sucre</dd>
+																<dt>Sampues</dt><dd>Sucre</dd>
+																<dt>San Pedro</dt><dd>Sucre</dd>
+																<dt>Sincelejo</dt><dd>Sucre</dd>
+																<dt>Buenos Aires</dt><dd>Tolima</dd>
+																<dt>Chicoral</dt><dd>Tolima</dd>
+																<dt>Espinal</dt><dd>Tolima</dd>
+																<dt>Flándes</dt><dd>Tolima</dd>
+																<dt>Gualanday</dt><dd>Tolima</dd>
+																<dt>Ibagüé</dt><dd>Tolima</dd>
+																<dt>Melgar</dt><dd>Tolima</dd>
+																<dt>Amaime</dt><dd>Valle</dd>
+																<dt>Andalucia</dt><dd>Valle</dd>
+																<dt>Buenaventura</dt><dd>Valle</dd>
+																<dt>Buga</dt><dd>Valle</dd>
+																<dt>Bugalagrande</dt><dd>Valle</dd>
+																<dt>Cali</dt><dd>Valle</dd>
+																<dt>Candelaria</dt><dd>Valle</dd>
+																<dt>Cartago</dt><dd>Valle</dd>
+																<dt>Cavasa</dt><dd>Valle</dd>
+																<dt>El Carmelo</dt><dd>Valle</dd>
+																<dt>El Cerrito</dt><dd>Valle</dd>
+																<dt>Florida</dt><dd>Valle</dd>
+																<dt>Ginebra</dt><dd>Valle</dd>
+																<dt>Guacarí</dt><dd>Valle</dd>
+																<dt>Jamundí</dt><dd>Valle</dd>
+																<dt>Palmira</dt><dd>Valle</dd>
+																<dt>Pradera</dt><dd>Valle</dd>
+																<dt>Rozo</dt><dd>Valle</dd>
+																<dt>Sonso</dt><dd>Valle</dd>
+																<dt>Vijes</dt><dd>Valle</dd>
+																<dt>Yumbo</dt><dd>Valle</dd>
+																<dt>Zaragoza</dt><dd>Valle</dd>
+															</dl>
+														</div>
+													</div>
+												</div>
+												<div class="col-xs-12 col-md-6">
+													<a class="btn btn-primary col-xs-12" role="button" data-toggle="collapse" href="#collapse-cobertura-otros" aria-expanded="false" aria-controls="collapse-cobertura-otros">
+														Otros destinos
+													</a>
+													<div class="col-xs-12 col-md-12 otros-destinos img-thumbnail">
+														<div class="collapse" id="collapse-cobertura-otros">
+															<dl class="dl-horizontal">
+																<dt>Abejorral</dt><dd>Antioquia</dd>
+																<dt>Amagá</dt><dd>Antioquia</dd>
+																<dt>Andes</dt><dd>Antioquia</dd>
+																<dt>Apartadó</dt><dd>Antioquia</dd>
+																<dt>Argelia</dt><dd>Antioquia</dd>
+																<dt>Armenia Mantequilla</dt><dd>Antioquia</dd>
+																<dt>Belmira</dt><dd>Antioquia</dd>
+																<dt>Betania</dt><dd>Antioquia</dd>
+																<dt>Betulia</dt><dd>Antioquia</dd>
+																<dt>Bolombolo</dt><dd>Antioquia</dd>
+																<dt>Cañasgordas</dt><dd>Antioquia</dd>
+																<dt>Caramanta</dt><dd>Antioquia</dd>
+																<dt>Carepa</dt><dd>Antioquia</dd>
+																<dt>Carolina del Príncipe</dt><dd>Antioquia</dd>
+																<dt>Caucasia</dt><dd>Antioquia</dd>
+																<dt>Concordia</dt><dd>Antioquia</dd>
+																<dt>Ebéjico</dt><dd>Antioquia</dd>
+																<dt>El Doce</dt><dd>Antioquia</dd>
+																<dt>El Peñol</dt><dd>Antioquia</dd>
+																<dt>El Tigre</dt><dd>Antioquia</dd>
+																<dt>Entrerios</dt><dd>Antioquia</dd>
+																<dt>Gómez Plata</dt><dd>Antioquia</dd>
+																<dt>Granada</dt><dd>Antioquia</dd>
+																<dt>Guadalupe</dt><dd>Antioquia</dd>
+																<dt>Guatapé</dt><dd>Antioquia</dd>
+																<dt>Hispania</dt><dd>Antioquia</dd>
+																<dt>Jardín Suroeste</dt><dd>Antioquia</dd>
+																<dt>Jardín de Cáceres</dt><dd>Antioquia</dd>
+																<dt>La Cruzada</dt><dd>Antioquia</dd>
+																<dt>La Pintada</dt><dd>Antioquia</dd>
+																<dt>La Sierra</dt><dd>Antioquia</dd>
+																<dt>La Tablaza</dt><dd>Antioquia</dd>
+																<dt>Liborina</dt><dd>Antioquia</dd>
+																<dt>Montebello</dt><dd>Antioquia</dd>
+																<dt>Nariño</dt><dd>Antioquia</dd>
+																<dt>Olaya</dt><dd>Antioquia</dd>
+																<dt>Palmitas</dt><dd>Antioquia</dd>
+																<dt>Puerto Berrío</dt><dd>Antioquia</dd>
+																<dt>Salgar</dt><dd>Antioquia</dd>
+																<dt>San Carlos</dt><dd>Antioquia</dd>
+																<dt>San Francisco</dt><dd>Antioquia</dd>
+																<dt>San Jerónimo</dt><dd>Antioquia</dd>
+																<dt>San José del Nus</dt><dd>Antioquia</dd>
+																<dt>San Luis</dt><dd>Antioquia</dd>
+																<dt>San Pedro de los Milagros</dt><dd>Antioquia</dd>
+																<dt>San Pedro de Urabá</dt><dd>Antioquia</dd>
+																<dt>Santa Bárbara</dt><dd>Antioquia</dd>
+																<dt>Santa Isabel</dt><dd>Antioquia</dd>
+																<dt>Santa Rosa de Osos</dt><dd>Antioquia</dd>
+																<dt>Santafé de Antioquia</dt><dd>Antioquia</dd>
+																<dt>Santiago</dt><dd>Antioquia</dd>
+																<dt>Sonsón</dt><dd>Antioquia</dd>
+																<dt>Titiribí</dt><dd>Antioquia</dd>
+																<dt>Turbo</dt><dd>Antioquia</dd>
+																<dt>Vegachí</dt><dd>Antioquia</dd>
+																<dt>Yalí</dt><dd>Antioquia</dd>
+																<dt>Yondó Casabe</dt><dd>Antioquia</dd>
+																<dt>Fortul</dt><dd>Arauca</dd>
+																<dt>La Esmeralda</dt><dd>Arauca</dd>
+																<dt>La Pesquera</dt><dd>Arauca</dd>
+																<dt>Saravena</dt><dd>Arauca</dd>
+																<dt>Tame</dt><dd>Arauca</dd>
+																<dt>Arroyo de Piedra</dt><dd>Atlántico</dd>
+																<dt>Baranoa</dt><dd>Atlántico</dd>
+																<dt>Campo de la Cruz</dt><dd>Atlántico</dd>
+																<dt>Candelaria</dt><dd>Atlántico</dd>
+																<dt>Juan de Acosta</dt><dd>Atlántico</dd>
+																<dt>Juan Mina</dt><dd>Atlántico</dd>
+																<dt>Manatí</dt><dd>Atlántico</dd>
+																<dt>Palonuevo</dt><dd>Atlántico</dd>
+																<dt>Puerto Colombia</dt><dd>Atlántico</dd>
+																<dt>Repelón</dt><dd>Atlántico</dd>
+																<dt>Sabanagrande</dt><dd>Atlántico</dd>
+																<dt>Santa Lucía</dt><dd>Atlántico</dd>
+																<dt>Suan</dt><dd>Atlántico</dd>
+																<dt>Turbará</dt><dd>Atlántico</dd>
+																<dt>Usiacurí</dt><dd>Atlántico</dd>
+																<dt>Arenal</dt><dd>Bolivar</dd>
+																<dt>Bayunca</dt><dd>Bolivar</dd>
+																<dt>Calamar</dt><dd>Bolivar</dd>
+																<dt>Clemencia</dt><dd>Bolivar</dd>
+																<dt>Magangué</dt><dd>Bolivar</dd>
+																<dt>María la Baja</dt><dd>Bolivar</dd>
+																<dt>Mompos</dt><dd>Bolivar</dd>
+																<dt>Pasacaballos</dt><dd>Bolivar</dd>
+																<dt>San Jacinto</dt><dd>Bolivar</dd>
+																<dt>San Juan Nepomuceno</dt><dd>Bolivar</dd>
+																<dt>Santa Catalina</dt><dd>Bolivar</dd>
+																<dt>Santa Rosa</dt><dd>Bolivar</dd>
+																<dt>Talaigua</dt><dd>Bolivar</dd>
+																<dt>Turbana</dt><dd>Bolivar</dd>
+																<dt>Villanueva</dt><dd>Bolivar</dd>
+																<dt>Zambrano</dt><dd>Bolivar</dd>
+																<dt>Almeida</dt><dd>Boyacá</dd>
+																<dt>Aquitania</dt><dd>Boyacá</dd>
+																<dt>Belén</dt><dd>Boyacá</dd>
+																<dt>Belencito</dt><dd>Boyacá</dd>
+																<dt>Berbeo</dt><dd>Boyacá</dd>
+																<dt>Betéitiva</dt><dd>Boyacá</dd>
+																<dt>Boavita</dt><dd>Boyacá</dd>
+																<dt>Busbanza</dt><dd>Boyacá</dd>
+																<dt>Cerinza</dt><dd>Boyacá</dd>
+																<dt>Chinavita</dt><dd>Boyacá</dd>
+																<dt>Chíquiza</dt><dd>Boyacá</dd>
+																<dt>Chiscas</dt><dd>Boyacá</dd>
+																<dt>Chita</dt><dd>Boyacá</dd>
+																<dt>Chitaraque</dt><dd>Boyacá</dd>
+																<dt>Chivatá</dt><dd>Boyacá</dd>
+																<dt>Chivor</dt><dd>Boyacá</dd>
+																<dt>Ciénaga</dt><dd>Boyacá</dd>
+																<dt>Cómbita</dt><dd>Boyacá</dd>
+																<dt>Corrales</dt><dd>Boyacá</dd>
+																<dt>Ciénaga</dt><dd>Boyacá</dd>
+																<dt>Cucaita</dt><dd>Boyacá</dd>
+																<dt>Cuítiva</dt><dd>Boyacá</dd>
+																<dt>El Cocuy</dt><dd>Boyacá</dd>
+																<dt>El Espino</dt><dd>Boyacá</dd>
+																<dt>Firavitoba</dt><dd>Boyacá</dd>
+																<dt>Floresta</dt><dd>Boyacá</dd>
+																<dt>Gachantivá</dt><dd>Boyacá</dd>
+																<dt>Gameza</dt><dd>Boyacá</dd>
+																<dt>Guacamayas</dt><dd>Boyacá</dd>
+																<dt>Guayatá</dt><dd>Boyacá</dd>
+																<dt>Güicán</dt><dd>Boyacá</dd>
+																<dt>Jenesano</dt><dd>Boyacá</dd>
+																<dt>Jericó</dt><dd>Boyacá</dd>
+																<dt>La Capilla</dt><dd>Boyacá</dd>
+																<dt>La Uvita</dt><dd>Boyacá</dd>
+																<dt>Macanal</dt><dd>Boyacá</dd>
+																<dt>Mongua</dt><dd>Boyacá</dd>
+																<dt>Monguí</dt><dd>Boyacá</dd>
+																<dt>Motavita</dt><dd>Boyacá</dd>
+																<dt>Nuevo Colón</dt><dd>Boyacá</dd>
+																<dt>Oicatá</dt><dd>Boyacá</dd>
+																<dt>Pachativa</dt><dd>Boyacá</dd>
+																<dt>Páez</dt><dd>Boyacá</dd>
+																<dt>Panqueba</dt><dd>Boyacá</dd>
+																<dt>Pauna</dt><dd>Boyacá</dd>
+																<dt>Paz del Río</dt><dd>Boyacá</dd>
+																<dt>Pesca</dt><dd>Boyacá</dd>
+																<dt>Puente Boyacá</dt><dd>Boyacá</dd>
+																<dt>Puerto Boyacá</dt><dd>Boyacá</dd>
+																<dt>Ráquira</dt><dd>Boyacá</dd>
+																<dt>Rondón</dt><dd>Boyacá</dd>
+																<dt>Saboyá</dt><dd>Boyacá</dd>
+																<dt>Sáchica</dt><dd>Boyacá</dd>
+																<dt>Samacá</dt><dd>Boyacá</dd>
+																<dt>San Eduardo</dt><dd>Boyacá</dd>
+																<dt>San José de Pare</dt><dd>Boyacá</dd>
+																<dt>San Mateo</dt><dd>Boyacá</dd>
+																<dt>Santa Rosa de Viterbo</dt><dd>Boyacá</dd>
+																<dt>Santa Sofía</dt><dd>Boyacá</dd>
+																<dt>Sativanorte</dt><dd>Boyacá</dd>
+																<dt>Sativasur</dt><dd>Boyacá</dd>
+																<dt>Siachoque</dt><dd>Boyacá</dd>
+																<dt>Soatá</dt><dd>Boyacá</dd>
+																<dt>Socotá</dt><dd>Boyacá</dd>
+																<dt>Somondoco</dt><dd>Boyacá</dd>
+																<dt>Soracá</dt><dd>Boyacá</dd>
+																<dt>Sotaquirá</dt><dd>Boyacá</dd>
+																<dt>Susacón</dt><dd>Boyacá</dd>
+																<dt>Sutatenza</dt><dd>Boyacá</dd>
+																<dt>Tensa</dt><dd>Boyacá</dd>
+																<dt>Toca</dt><dd>Boyacá</dd>
+																<dt>Togüí</dt><dd>Boyacá</dd>
+																<dt>Tópaga</dt><dd>Boyacá</dd>
+																<dt>Tota</dt><dd>Boyacá</dd>
+																<dt>Turmequé</dt><dd>Boyacá</dd>
+																<dt>Tuta</dt><dd>Boyacá</dd>
+																<dt>Tutanzá</dt><dd>Boyacá</dd>
+																<dt>Úmbita</dt><dd>Boyacá</dd>
+																<dt>Ventaquemada</dt><dd>Boyacá</dd>
+																<dt>Villa de Leyva</dt><dd>Boyacá</dd>
+																<dt>Viracachá</dt><dd>Boyacá</dd>
+																<dt>Anserma</dt><dd>Caldas</dd>
+																<dt>Arauca</dt><dd>Caldas</dd>
+																<dt>Arma</dt><dd>Caldas</dd>
+																<dt>Bolivia</dt><dd>Caldas</dd>
+																<dt>Guarinocito</dt><dd>Caldas</dd>
+																<dt>La Dorada</dt><dd>Caldas</dd>
+																<dt>La Felisa</dt><dd>Caldas</dd>
+																<dt>La Merced</dt><dd>Caldas</dd>
+																<dt>La Victoria</dt><dd>Caldas</dd>
+																<dt>Marmato</dt><dd>Caldas</dd>
+																<dt>Marquetalia</dt><dd>Caldas</dd>
+																<dt>Marulanda</dt><dd>Caldas</dd>
+																<dt>Neira</dt><dd>Caldas</dd>
+																<dt>Norcasia</dt><dd>Caldas</dd>
+																<dt>Pácora</dt><dd>Caldas</dd>
+																<dt>Riosucio</dt><dd>Caldas</dd>
+																<dt>Risaralda</dt><dd>Caldas</dd>
+																<dt>Samaná</dt><dd>Caldas</dd>
+																<dt>San Félix</dt><dd>Caldas</dd>
+																<dt>San José</dt><dd>Caldas</dd>
+																<dt>Supía</dt><dd>Caldas</dd>
+																<dt>Viterbo</dt><dd>Caldas</dd>
+																<dt>Toribío</dt><dd>Cauca</dd>
+																<dt>Albania</dt><dd>Caquetá</dd>
+																<dt>Belén de Andaquies</dt><dd>Caquetá</dd>
+																<dt>Cartagena de Chairá</dt><dd>Caquetá</dd>
+																<dt>Florencia</dt><dd>Caquetá</dd>
+																<dt>La Montañita</dt><dd>Caquetá</dd>
+																<dt>Morelia</dt><dd>Caquetá</dd>
+																<dt>Puerto Rico</dt><dd>Caquetá</dd>
+																<dt>Río Negro</dt><dd>Caquetá</dd>
+																<dt>Solita</dt><dd>Caquetá</dd>
+																<dt>Valparaizo</dt><dd>Caquetá</dd>
+																<dt>Aguaclara</dt><dd>Casanare</dd>
+																<dt>Aranguaney</dt><dd>Casanare</dd>
+																<dt>Cusiana</dt><dd>Casanare</dd>
+																<dt>La Chaparrera</dt><dd>Casanare</dd>
+																<dt>Monterrey</dt><dd>Casanare</dd>
+																<dt>Pore</dt><dd>Casanare</dd>
+																<dt>San Luis de Palenque</dt><dd>Casanare</dd>
+																<dt>Villanueva</dt><dd>Casanare</dd>
+																<dt>Belalcazar</dt><dd>Cauca</dd>
+																<dt>Corinto</dt><dd>Cauca</dd>
+																<dt>El Estrecho</dt><dd>Cauca</dd>
+																<dt>Inza</dt><dd>Cauca</dd>
+																<dt>La Sierra</dt><dd>Cauca</dd>
+																<dt>Mondomo</dt><dd>Cauca</dd>
+																<dt>Ortigal</dt><dd>Cauca</dd>
+																<dt>Padilla</dt><dd>Cauca</dd>
+																<dt>Rosas</dt><dd>Cauca</dd>
+																<dt>Suarez</dt><dd>Cauca</dd>
+																<dt>Tunia</dt><dd>Cauca</dd>
+																<dt>Aguachica</dt><dd>Cesar</dd>
+																<dt>Astrea</dt><dd>Cesar</dd>
+																<dt>Ayacucho</dt><dd>Cesar</dd>
+																<dt>Becerril</dt><dd>Cesar</dd>
+																<dt>Bosconia</dt><dd>Cesar</dd>
+																<dt>Caracolicito</dt><dd>Cesar</dd>
+																<dt>Chimichagua</dt><dd>Cesar</dd>
+																<dt>Chiriguaná</dt><dd>Cesar</dd>
+																<dt>Codazzi</dt><dd>Cesar</dd>
+																<dt>Copey</dt><dd>Cesar</dd>
+																<dt>Curumaní</dt><dd>Cesar</dd>
+																<dt>Gamarra</dt><dd>Cesar</dd>
+																<dt>La Gloria</dt><dd>Cesar</dd>
+																<dt>La Jagua de Ibirico</dt><dd>Cesar</dd>
+																<dt>La Loma</dt><dd>Cesar</dd>
+																<dt>Pailitas</dt><dd>Cesar</dd>
+																<dt>Rincón Hondo</dt><dd>Cesar</dd>
+																<dt>San Alberto</dt><dd>Cesar</dd>
+																<dt>San Diego</dt><dd>Cesar</dd>
+																<dt>San Roque</dt><dd>Cesar</dd>
+																<dt>Condoto</dt><dd>Chocó</dd>
+																<dt>El Cármen de Atrato</dt><dd>Chocó</dd>
+																<dt>Chinú</dt><dd>Córdoba</dd>
+																<dt>El Viajano</dt><dd>Córdoba</dd>
+																<dt>La Ye</dt><dd>Córdoba</dd>
+																<dt>Montelíbano</dt><dd>Córdoba</dd>
+																<dt>Pueblo Nuevo</dt><dd>Córdoba</dd>
+																<dt>Puerto Libertador</dt><dd>Córdoba</dd>
+																<dt>San Bernardo del Viento</dt><dd>Córdoba</dd>
+																<dt>Tierra Alta</dt><dd>Córdoba</dd>
+																<dt>Tuchín</dt><dd>Córdoba</dd>
+																<dt>Valencia</dt><dd>Córdoba</dd>
+																<dt>Albán</dt><dd>Cundinamarca</dd>
+																<dt>Anolaima</dt><dd>Cundinamarca</dd>
+																<dt>Bojacá</dt><dd>Cundinamarca</dd>
+																<dt>Cachipay</dt><dd>Cundinamarca</dd>
+																<dt>Caparrapí</dt><dd>Cundinamarca</dd>
+																<dt>Capellanía</dt><dd>Cundinamarca</dd>
+																<dt>Cármen de Carupa</dt><dd>Cundinamarca</dd>
+																<dt>Chocontá</dt><dd>Cundinamarca</dd>
+																<dt>Chusacá</dt><dd>Cundinamarca</dd>
+																<dt>Cogua</dt><dd>Cundinamarca</dd>
+																<dt>El Peñón</dt><dd>Cundinamarca</dd>
+																<dt>El Rosal</dt><dd>Cundinamarca</dd>
+																<dt>El Sisga</dt><dd>Cundinamarca</dd>
+																<dt>El Triunfo</dt><dd>Cundinamarca</dd>
+																<dt>Fómeque</dt><dd>Cundinamarca</dd>
+																<dt>Gachetá</dt><dd>Cundinamarca</dd>
+																<dt>Granada</dt><dd>Cundinamarca</dd>
+																<dt>Guachetá</dt><dd>Cundinamarca</dd>
+																<dt>Guasca</dt><dd>Cundinamarca</dd>
+																<dt>Guatavita</dt><dd>Cundinamarca</dd>
+																<dt>Guayabal de Sisquima</dt><dd>Cundinamarca</dd>
+																<dt>Guayabetal</dt><dd>Cundinamarca</dd>
+																<dt>Gutierrez</dt><dd>Cundinamarca</dd>
+																<dt>Junín</dt><dd>Cundinamarca</dd>
+																<dt>La Florida</dt><dd>Cundinamarca</dd>
+																<dt>La Vega</dt><dd>Cundinamarca</dd>
+																<dt>Macheta</dt><dd>Cundinamarca</dd>
+																<dt>Manta</dt><dd>Cundinamarca</dd>
+																<dt>Nariño</dt><dd>Cundinamarca</dd>
+																<dt>Nocaima</dt><dd>Cundinamarca</dd>
+																<dt>Pacho</dt><dd>Cundinamarca</dd>
+																<dt>Pandi</dt><dd>Cundinamarca</dd>
+																<dt>Paratebueno</dt><dd>Cundinamarca</dd>
+																<dt>Pasca</dt><dd>Cundinamarca</dd>
+																<dt>Puente de Piedra</dt><dd>Cundinamarca</dd>
+																<dt>Puerto Bogotá</dt><dd>Cundinamarca</dd>
+																<dt>Quetame</dt><dd>Cundinamarca</dd>
+																<dt>Quipile</dt><dd>Cundinamarca</dd>
+																<dt>San Antonio de Teque</dt><dd>Cundinamarca</dd>
+																<dt>San Juan de Río Seco</dt><dd>Cundinamarca</dd>
+																<dt>Santandercito</dt><dd>Cundinamarca</dd>
+																<dt>Sasaima</dt><dd>Cundinamarca</dd>
+																<dt>Sesquilé</dt><dd>Cundinamarca</dd>
+																<dt>Subachoque</dt><dd>Cundinamarca</dd>
+																<dt>Subia</dt><dd>Cundinamarca</dd>
+																<dt>Susa</dt><dd>Cundinamarca</dd>
+																<dt>Tausa</dt><dd>Cundinamarca</dd>
+																<dt>Tena</dt><dd>Cundinamarca</dd>
+																<dt>Tocaima</dt><dd>Cundinamarca</dd>
+																<dt>Topaipí</dt><dd>Cundinamarca</dd>
+																<dt>Ubalá</dt><dd>Cundinamarca</dd>
+																<dt>Une</dt><dd>Cundinamarca</dd>
+																<dt>Venecia</dt><dd>Cundinamarca</dd>
+																<dt>Vianí</dt><dd>Cundinamarca</dd>
+																<dt>Viotá</dt><dd>Cundinamarca</dd>
+																<dt>Yacopí</dt><dd>Cundinamarca</dd>
+																<dt>Zipacón</dt><dd>Cundinamarca</dd>
+																<dt>Distracción</dt><dd>Guajira</dd>
+																<dt>La Jagua del Pilar</dt><dd>Guajira</dd>
+																<dt>Maicao</dt><dd>Guajira</dd>
+																<dt>Rioacha</dt><dd>Guajira</dd>
+																<dt>San Juan del Cesar</dt><dd>Guajira</dd>
+																<dt>San José de Guaviare</dt><dd>Guaviare</dd>
+																<dt>Agrado</dt><dd>Huila</dd>
+																<dt>Baraya</dt><dd>Huila</dd>
+																<dt>Belén</dt><dd>Huila</dd>
+																<dt>Campoalegre</dt><dd>Huila</dd>
+																<dt>Colombia</dt><dd>Huila</dd>
+																<dt>Gigante</dt><dd>Huila</dd>
+																<dt>Íquira</dt><dd>Huila</dd>
+																<dt>San José de Isnos</dt><dd>Huila</dd>
+																<dt>Nátaga</dt><dd>Huila</dd>
+																<dt>Paicol</dt><dd>Huila</dd>
+																<dt>Palestina</dt><dd>Huila</dd>
+																<dt>Pital</dt><dd>Huila</dd>
+																<dt>Pitalito</dt><dd>Huila</dd>
+																<dt>Saladoblanco</dt><dd>Huila</dd>
+																<dt>Tarqui</dt><dd>Huila</dd>
+																<dt>Tello</dt><dd>Huila</dd>
+																<dt>Ternuel</dt><dd>Huila</dd>
+																<dt>Timaná</dt><dd>Huila</dd>
+																<dt>Chivolo</dt><dd>Magdalena</dd>
+																<dt>Guacamayal</dt><dd>Magdalena</dd>
+																<dt>Nueva Granada</dt><dd>Magdalena</dd>
+																<dt>Plato</dt><dd>Magdalena</dd>
+																<dt>Pueblo Nuevo</dt><dd>Magdalena</dd>
+																<dt>Ríofrio</dt><dd>Magdalena</dd>
+																<dt>San Sebastián</dt><dd>Magdalena</dd>
+																<dt>Santa Ana</dt><dd>Magdalena</dd>
+																<dt>Tucurinca</dt><dd>Magdalena</dd>
+																<dt>Acacías</dt><dd>Meta</dd>
+																<dt>Barranca de Upía</dt><dd>Meta</dd>
+																<dt>Cubarral San Luis</dt><dd>Meta</dd>
+																<dt>Cumaral</dt><dd>Meta</dd>
+																<dt>Fuente de Oro</dt><dd>Meta</dd>
+																<dt>Granada</dt><dd>Meta</dd>
+																<dt>Pachaquiaro</dt><dd>Meta</dd>
+																<dt>Puerto Lleras</dt><dd>Meta</dd>
+																<dt>Puerto López</dt><dd>Meta</dd>
+																<dt>San Juan de Arama</dt><dd>Meta</dd>
+																<dt>San Martín</dt><dd>Meta</dd>
+																<dt>Ancuyá</dt><dd>Nariño</dd>
+																<dt>Barbacoas</dt><dd>Nariño</dd>
+																<dt>Belén</dt><dd>Nariño</dd>
+																<dt>Buesaco</dt><dd>Nariño</dd>
+																<dt>Consacá</dt><dd>Nariño</dd>
+																<dt>El Tambo</dt><dd>Nariño</dd>
+																<dt>Guachucal</dt><dd>Nariño</dd>
+																<dt>Guaitarilla</dt><dd>Nariño</dd>
+																<dt>Junín</dt><dd>Nariño</dd>
+																<dt>La Cruz</dt><dd>Nariño</dd>
+																<dt>Las Lajas</dt><dd>Nariño</dd>
+																<dt>Leiva</dt><dd>Nariño</dd>
+																<dt>Linares</dt><dd>Nariño</dd>
+																<dt>Llorente</dt><dd>Nariño</dd>
+																<dt>Piedra Ancha</dt><dd>Nariño</dd>
+																<dt>Pilcuan</dt><dd>Nariño</dd>
+																<dt>Ricaurte</dt><dd>Nariño</dd>
+																<dt>Samaniego</dt><dd>Nariño</dd>
+																<dt>San Bernardo</dt><dd>Nariño</dd>
+																<dt>San José de Albán</dt><dd>Nariño</dd>
+																<dt>San Lorenzo</dt><dd>Nariño</dd>
+																<dt>San Pedro de Cartago</dt><dd>Nariño</dd>
+																<dt>Sandoná</dt><dd>Nariño</dd>
+																<dt>Sampuyes</dt><dd>Nariño</dd>
+																<dt>El Tablón de Gómez</dt><dd>Nariño</dd>
+																<dt>Tangua</dt><dd>Nariño</dd>
+																<dt>Tuquerres</dt><dd>Nariño</dd>
+																<dt>Yacuanquer</dt><dd>Nariño</dd>
+																<dt>Chitagá</dt><dd>Norte de Santander</dd>
+																<dt>Convención</dt><dd>Norte de Santander</dd>
+																<dt>Cucutilla</dt><dd>Norte de Santander</dd>
+																<dt>Durania</dt><dd>Norte de Santander</dd>
+																<dt>El Zulia</dt><dd>Norte de Santander</dd>
+																<dt>Gramalote</dt><dd>Norte de Santander</dd>
+																<dt>Herrán</dt><dd>Norte de Santander</dd>
+																<dt>Labateca</dt><dd>Norte de Santander</dd>
+																<dt>Lourdes</dt><dd>Norte de Santander</dd>
+																<dt>Mitiscua</dt><dd>Norte de Santander</dd>
+																<dt>Ocaña</dt><dd>Norte de Santander</dd>
+																<dt>Pamplona</dt><dd>Norte de Santander</dd>
+																<dt>Pamplonita</dt><dd>Norte de Santander</dd>
+																<dt>Puerto Santander</dt><dd>Norte de Santander</dd>
+																<dt>Salazar</dt><dd>Norte de Santander</dd>
+																<dt>San Cayetano</dt><dd>Norte de Santander</dd>
+																<dt>Santiago</dt><dd>Norte de Santander</dd>
+																<dt>Sardinata</dt><dd>Norte de Santander</dd>
+																<dt>Silos</dt><dd>Norte de Santander</dd>
+																<dt>La Hormiga Valle del Guamuez</dt><dd>Putumayo</dd>
+																<dt>Mocoa</dt><dd>Putumayo</dd>
+																<dt>Puerto Caicedo</dt><dd>Putumayo</dd>
+																<dt>Puerto Guzmán</dt><dd>Putumayo</dd>
+																<dt>San Francisco</dt><dd>Putumayo</dd>
+																<dt>Santiago</dt><dd>Putumayo</dd>
+																<dt>Sibundoy</dt><dd>Putumayo</dd>
+																<dt>Buenavista</dt><dd>Quindio</dd>
+																<dt>Finlandia</dt><dd>Quindio</dd>
+																<dt>Génova</dt><dd>Quindio</dd>
+																<dt>Salento</dt><dd>Quindio</dd>
+																<dt>Apía</dt><dd>Risaralda</dd>
+																<dt>Guática</dt><dd>Risaralda</dd>
+																<dt>Irra</dt><dd>Risaralda</dd>
+																<dt>La Celia</dt><dd>Risaralda</dd>
+																<dt>La Virginia</dt><dd>Risaralda</dd>
+																<dt>Marsella</dt><dd>Risaralda</dd>
+																<dt>Aratoca</dt><dd>Santander</dd>
+																<dt>Barbosa</dt><dd>Santander</dd>
+																<dt>Barichara</dt><dd>Santander</dd>
+																<dt>Barrancabermeja</dt><dd>Santander</dd>
+																<dt>Cármen de Chucurí</dt><dd>Santander</dd>
+																<dt>Capitanejo</dt><dd>Santander</dd>
+																<dt>Charalá</dt><dd>Santander</dd>
+																<dt>Contratación</dt><dd>Santander</dd>
+																<dt>El Centro</dt><dd>Santander</dd>
+																<dt>El Playón</dt><dd>Santander</dd>
+																<dt>Guacá</dt><dd>Santander</dd>
+																<dt>Guadalupe</dt><dd>Santander</dd>
+																<dt>La Esperanza</dt><dd>Santander</dd>
+																<dt>Landazuri</dt><dd>Santander</dd>
+																<dt>Málaga</dt><dd>Santander</dd>
+																<dt>Mogotes</dt><dd>Santander</dd>
+																<dt>Molagavita</dt><dd>Santander</dd>
+																<dt>Olival</dt><dd>Santander</dd>
+																<dt>Páramo</dt><dd>Santander</dd>
+																<dt>Pescadero</dt><dd>Santander</dd>
+																<dt>Pinchote</dt><dd>Santander</dd>
+																<dt>Sábana de Tórres</dt><dd>Santander</dd>
+																<dt>San Gil</dt><dd>Santander</dd>
+																<dt>San Vicente de Chucurí</dt><dd>Santander</dd>
+																<dt>Suaitá</dt><dd>Santander</dd>
+																<dt>Vado Real</dt><dd>Santander</dd>
+																<dt>Valle de San José</dt><dd>Santander</dd>
+																<dt>Vélez</dt><dd>Santander</dd>
+																<dt>Villanueva</dt><dd>Santander</dd>
+																<dt>Zapatoca</dt><dd>Santander</dd>
+																<dt>Galeras</dt><dd>Sucre</dd>
+																<dt>Los Palmitos</dt><dd>Sucre</dd>
+																<dt>San Onofre</dt><dd>Sucre</dd>
+																<dt>Tolú</dt><dd>Sucre</dd>
+																<dt>Tolú Viejo</dt><dd>Sucre</dd>
+																<dt>Alpujarra</dt><dd>Tolima</dd>
+																<dt>Alvarado</dt><dd>Tolima</dd>
+																<dt>Ambalema</dt><dd>Tolima</dd>
+																<dt>Anzoategui</dt><dd>Tolima</dd>
+																<dt>Ataco</dt><dd>Tolima</dd>
+																<dt>Boquerón</dt><dd>Tolima</dd>
+																<dt>Cajamarca</dt><dd>Tolima</dd>
+																<dt>Caldas Viejo</dt><dd>Tolima</dd>
+																<dt>Casabianca</dt><dd>Tolima</dd>
+																<dt>Chaparral</dt><dd>Tolima</dd>
+																<dt>Coello Cocora</dt><dd>Tolima</dd>
+																<dt>Cunday</dt><dd>Tolima</dd>
+																<dt>Dolores</dt><dd>Tolima</dd>
+																<dt>El Convenio</dt><dd>Tolima</dd>
+																<dt>El Totumo</dt><dd>Tolima</dd>
+																<dt>Falán</dt><dd>Tolima</dd>
+																<dt>Guamo</dt><dd>Tolima</dd>
+																<dt>Mesitas del Colegio</dt><dd>Tolima</dd>
+																<dt>Honda</dt><dd>Tolima</dd>
+																<dt>Juntas</dt><dd>Tolima</dd>
+																<dt>La Chamba</dt><dd>Tolima</dd>
+																<dt>La Palmita</dt><dd>Tolima</dd>
+																<dt>La Sierra</dt><dd>Tolima</dd>
+																<dt>Líbano</dt><dd>Tolima</dd>
+																<dt>Mariquita</dt><dd>Tolima</dd>
+																<dt>Murillo</dt><dd>Tolima</dd>
+																<dt>Padua</dt><dd>Tolima</dd>
+																<dt>Palocabildo</dt><dd>Tolima</dd>
+																<dt>Payandé</dt><dd>Tolima</dd>
+																<dt>Planadas</dt><dd>Tolima</dd>
+																<dt>Prado</dt><dd>Tolima</dd>
+																<dt>Roncesvalle</dt><dd>Tolima</dd>
+																<dt>Rovira</dt><dd>Tolima</dd>
+																<dt>San Antonio</dt><dd>Tolima</dd>
+																<dt>San Felipe</dt><dd>Tolima</dd>
+																<dt>Santa Isabel</dt><dd>Tolima</dd>
+																<dt>Suarez</dt><dd>Tolima</dd>
+																<dt>Valle de San Juan</dt><dd>Tolima</dd>
+																<dt>Venadillo</dt><dd>Tolima</dd>
+																<dt>Villa Restrepo</dt><dd>Tolima</dd>
+																<dt>Villahermosa</dt><dd>Tolima</dd>
+																<dt>Ansermanuevo</dt><dd>Valle</dd>
+																<dt>Caicedonia</dt><dd>Valle</dd>
+																<dt>Cisneros</dt><dd>Valle</dd>
+																<dt>Dagua</dt><dd>Valle</dd>
+																<dt>Darien</dt><dd>Valle</dd>
+																<dt>La Cumbre</dt><dd>Valle</dd>
+																<dt>La Paila</dt><dd>Valle</dd>
+																<dt>La Unión</dt><dd>Valle</dd>
+																<dt>La Uribe</dt><dd>Valle</dd>
+																<dt>Lobo Guerrero</dt><dd>Valle</dd>
+																<dt>Obando</dt><dd>Valle</dd>
+																<dt>Presidente</dt><dd>Valle</dd>
+																<dt>Ríofrio</dt><dd>Valle</dd>
+																<dt>San Pedro</dt><dd>Valle</dd>
+																<dt>Sevilla</dt><dd>Valle</dd>
+																<dt>Toro</dt><dd>Valle</dd>
+																<dt>Ulloa</dt><dd>Valle</dd>
+																<dt>Versalles</dt><dd>Valle</dd>
+																<dt>Zarzal</dt><dd>Valle</dd>
+															</dl>
+														</div>
+													</div>
+												</div>
+												<div class="col-xs-12">
+													<p><strong>*No aplica para Punto Entrega</strong></p>
+													<p><strong>Despachos:</strong></p>
+													<ul>
+														<li>Lunes a viernes de 7:30 am a 6:30 pm</li>
+														<li>Sábados de 7:30 am a 2:00 pm.</li>
+														<li>Domingos y festivos no se realizan entregas</li>
+													</ul>
+
+													<p>Para pedidos entregados directamente por el proveedor, tenemos tiempos de entrega adicionales. Consulte estos tiempos directamente en la página de descripción del producto.</p>
+													<p>No aplica para productos Marketplace.</p>
+													<p><strong>Nota: Recuerda que la promesa de entrega comienza a contar al siguiente día después de la aprobación de la compra. La aprobación de compra tarda según las pruebas de seguridad que hacen los bancos dependiendo del medio de pago.</strong></p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#demora-llegar-mercado" aria-expanded="true" aria-controls="demora-llegar-mercado">
+													3. ¿Cuánto se demora la entrega de mi mercado?
+												</a>
+											</h4>
+										</div>
+										<div id="demora-llegar-mercado" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-entregas">
+											<div class="panel-body">
+												<p><strong>En tu proceso de pago se comunicará la promesa de entrega según el almacén de despacho. De lo contrario el tiempo de entrega será el siguiente:</strong></p>
+												<ul>
+													<li>3 horas para pedidos menores o iguales a 15 productos y 12 horas para productos mayores o iguales a 16 productos.</li>
+													<li>El tiempo de entrega empieza a contar a partir de la aprobación del pago.</li>
+													<li>El valor del envío puede variar según el almacén de despacho y el transportador elegido por el cliente entre $4.000 y $5.000</li>
+													<li>No aplica para productos Marketplace.</li>
+													<li>Los licores no tienen cambio.</li>
+													<li>Envíos de 8:00 a.m. a 6:00 p.m.</li>
+													<li>Los pedidos realizados después de las 3:00 p.m. superiores a 20 PLU´s, se entregan al día siguiente antes del medio día.</li>
+													<li>El tiempo de entrega empieza a contar a partir de la aprobación del pago.</li>
+													<li>No aplica para productos Marketplace</li>
+													<li>La opción Entrega Programada le permitirá programar el horario de la entrega del mercado en rangos de una hora de acuerdo a la disponibilidad del almacén, tanto para entrega a domicilio o para recoger en el almacén. </li>
+													<li>El tiempo de entrega seleccionado se comunicará en el resumen de la compra y en el correo de confirmación.</li>
+													<li>Al seleccionar un rango de entrega se generará una reserva de este horario por un tiempo determinado hasta finalizar la compra, en caso de superar dicho tiempo sin completar la compra se requiere seleccionar un nuevo rango de entrega. </li>
+													<li>De acuerdo al número de productos que se tengan en el carrito se habilitará la opción de Entrega Express, la cual tiene una promesa de entrega en una hora</li>
+
+
+
+												</ul>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#tiempo-entrega-add" aria-expanded="true" aria-controls="tiempo-entrega-add">
+													4. ¿Por qué mi pedido tiene un plazo de entrega adicional?
+												</a>
+											</h4>
+										</div>
+										<div id="tiempo-entrega-add" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-entregas">
+											<div class="panel-body">
+												<p>Para los pedidos que despachan directamente nuestros proveedores, los tiempos de entrega varían y tienen tiempo de entrega adicional. A los productos que le aplica ésta entrega adicional, están debidamente marcados e indicados directamente en la página de descripción del producto</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta5-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#producto-llega-otra-ciudad" aria-expanded="true" aria-controls="producto-llega-otra-ciudad">
+													5. ¿Por qué llegó mi producto desde otra ciudad?
+												</a>
+											</h4>
+										</div>
+										<div id="producto-llega-otra-ciudad" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta5-entregas">
+											<div class="panel-body">
+												<p>En www.exito.com nos comprometemos a llevar el producto hasta su casa. Debe tener en cuenta que el producto puede ser enviado de una ciudad diferente, ya que contamos con el inventario de los diferentes almacenes para así poder cumplir con la entrega en el tiempo prometido. En ocasiones los productos adquiridos están en ciudades diferentes a la solicitada, razón por la cual y para responderle a su pedido, le despachamos desde la localidad donde hayamos encontrado disponibilidad.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta6-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#escribir-direccion" aria-expanded="true" aria-controls="escribir-direccion">
+													6.	¿Cómo debo escribir mi dirección para que llegue mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="escribir-direccion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta6-entregas">
+											<div class="panel-body">
+												<p>Nos comprometemos a llevar el pedido hasta su hogar, siempre y cuando el lugar de destino se encuentre dentro de la zona de influencia o perímetro establecido por www.exito.com; para ello se requiere que el lugar de entrega elegido cuente con nomenclatura. La entrega del producto se realizará de acuerdo a la promesa de entrega informada al momento de la compra del producto.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta7-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#entregar-direccion-diferente" aria-expanded="true" aria-controls="entregar-direccion-diferente">
+													7.	¿Me pueden entregar mi pedido a una dirección diferente a la que ingresé en mi registro?
+												</a>
+											</h4>
+										</div>
+										<div id="entregar-direccion-diferente" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta7-entregas">
+											<div class="panel-body">
+												<p>Sí, es posible enviar un pedido a un domicilio diferente al del registro. Cuando se encuentre en el proceso de pago, el sistema le pide digitar la dirección de envío y en ese momento puede elegir si quiere que sea entregado en su domicilio o en otro distinto. Escoja esta última opción y digite los datos de la nueva dirección.</p>
+												<p>Siempre tendrá la opción de almacenar diferentes direcciones de envío y escoger a cuál de ellas quiere enviar su pedido.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta8-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#ausente-momento-entrega" aria-expanded="true" aria-controls="ausente-momento-entrega">
+													8. ¿Qué pasa si estoy ausente en el momento de entrega?
+												</a>
+											</h4>
+										</div>
+										<div id="ausente-momento-entrega" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta8-entregas">
+											<div class="panel-body">
+												<p><strong>Bogotá: (1) 745 5444 - Medellín: (4) 604 1919 - Cali: (2) 489 1222 - Resto del País 01 8000 428 800 </strong></p>
+												<p>Quien recibe el pedido en la dirección suministrada debe ser una persona mayor de edad. Si desea que su pedido se entregue en portería, debe comunicarse con servicio al cliente de www.exito.com a través del chat o de las  líneas de Servicio al Cliente:</p>
+												<p><strong>Nivel nacional línea gratuita:</strong> 01 8000 112 858</p>
+												<p>Para coordinar la entrega, debe enviar un correo de soporte al asesor que le esté gestionando la reclamación. Cuando el pedido es de mercado debe haber alguien que lo reciba, de lo contrario se comunicarán para que autorice la entrega.</p>
+												<p>Para coordinar la entrega, debe enviar un correo de soporte al asesor que le esté gestionando la reclamación. Cuando el pedido es de mercado debe haber alguien que lo reciba, de lo contrario se comunicarán para que autorice la entrega.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta9-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#nadie-en-casa" aria-expanded="true" aria-controls="nadie-en-casa">
+													9. ¿Qué pasa si van a entregarme el pedido y no hay nadie en casa?
+												</a>
+											</h4>
+										</div>
+										<div id="nadie-en-casa" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta9-entregas">
+											<div class="panel-body">
+												<p>De no recibirse el pedido en el domicilio señalado después de tres visitas por parte de la transportadora, servicio al cliente lo contactará por teléfono y correo; si no responde después de tres intentos, el producto será devuelto al almacén que despachó, su pedido será cancelado y se iniciará el proceso de devolución de dinero (http://www.exito.com/centroayuda/cambios).</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta10-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#demora-aprobacion-pedido" aria-expanded="true" aria-controls="demora-aprobacion-pedido">
+													10. ¿Por qué se demoran en aprobar mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="demora-aprobacion-pedido" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta10-entregas">
+											<div class="panel-body">
+												<p>Cuando hace pagos por medio de tarjetas de crédito, su entidad bancaria hace varios procesos de aseguramiento para confirmar la veracidad de la compra; estos tiempos varían según el Banco y se salen completamente de la responsabilidad de www.exito.com. Una vez la entidad bancaria haya aprobado el pago, comienza a correr el tiempo de entrega prometido.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta11-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#compra-recoger-enalmacen" aria-expanded="true" aria-controls="compra-recoger-enalmacen">
+													11. ¿Puedo comprar por la página y recoger en algún almacén?
+												</a>
+											</h4>
+										</div>
+										<div id="compra-recoger-enalmacen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta11-entregas">
+											<div class="panel-body">
+												<p>Sí. En algunas ciudades de Colombia los clientes tienen la opción de comprar algunos productos y elegir la opción de recogida en almacén. Esta opción está disponible en el proceso de pago, bajo la opción llamada COMPRA Y RECOGE. Este servicio es completamente gratis y lo puede adaptar según sus necesidades de fecha de entrega y almacén más cercano.</p>
+											<ul>
+												<li>Este servicio aplica todos los productos de mercado, y para los productos que estén marcados con la opción COMPRA Y RECOGE</li>
+												<li>No aplica para los productos de Marketplace.</li>
+												<li>Consulta aquí las ciudades y los almacenes que tienen este servicio disponible (Link a la landing informativa). La disponibilidad de los almacenes para recoger mercado es diferente a los demás productos.</li>
+                                            </ul>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta12-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#quees-puntoentrega" aria-expanded="true" aria-controls="quees-puntoentrega">
+													12.¿Cómo funciona el servicio de COMPRA Y RECOGE?
+												</a>
+											</h4>
+										</div>
+										<div id="quees-puntoentrega" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta12-entregas">
+											<div class="panel-body">
+												<p><strong>Para los pedidos de tienda (no mercado):</strong></p>
+												
+												<p>En el proceso de compra se debe elegir la opción de COMPRA Y RECOGE, la cual para los pedidos de tienda (no mercado) se encuentra en el paso 2 (Información de entrega) del carrito de compra. En este punto se requiere seleccionar el departamento, ciudad y almacén de recogida</p>
+												
+												<ul>
+													<li>Si deseas que otra persona recoja tu pedido, podrás guardar la información en la opción ¿Quieres que otra persona recoja tu pedido?</li>
+													<li>Recibirás un correo con la notificación: ¡Su pedido ya se encuentra listo para recoger!</li>
+													<li>Si firmas sin revisar el Recibo a conformidad, perderás el derecho a reclamación por avería, faltantes o causas que no correspondan a defectos de fábrica.</li>
+													<li>Tus productos estarán disponibles durante 15 días hábiles contados a partir de la notificación de disponibilidad. Si al finalizar este tiempo no se han recogido los productos, el pedido se cancelará de inmediato.</li>
+													<li>Si compras un nevecón y requiere desmonte de puertas, debes solicitar con anticipación servicio técnico de la marca, el valor es asumido por el cliente y no está incluido en el precio final.</li>
+													
+											    </ul>
+
+											    <p><strong>Para los pedidos de mercado:</strong></p>
+
+											    <ul>
+													<li>En la página (URL de la landing) de bienvenida a las compras de mercado se requiere indicar la ciudad y el almacén de recogida, esto con el fin de ofrecer los productos correspondientes al almacén de entrega.</li>
+													<li>Se requiere que la persona que realizó la compra sea quien recoja el pedido, mostrando su documento de identidad al momento de la entrega. En caso de enviar a otra persona, esta debe presentar una copia de la cédula de la persona que realizó la compra.</li>
+													<li>Es posible realizar el pago al momento de la recogida seleccionado como medio de pago Pago Contra Entrega (Efectivo o Datafono). </li>
+													<li>El momento de la entrega se debe seleccionar en el proceso de compra con los rangos de horarios disponibles</li>
+													<li>Tus productos estarán disponibles durante 6 horas hábiles contadas a partir del día y el horario seleccionado. Si al finalizar este tiempo no se han recogido los productos, el pedido se cancelará de inmediato.</li>
+													
+											    </ul>
+
+											    <p>¡Importante!</p>
+                                                
+                                                   <ul>
+													<li>La persona que recogerá el pedido debe dirigirse al lugar señalizado con la imagen de Compra y Recoge dentro del almacén y presentar su cédula para recibir los productos.</li>
+													<li>Al recoger los productos verifica el estado del empaque y del producto junto con el personal del almacén que realiza la entrega. Si hay inconformidad o deterioro del producto no deberás firmar el Recibo a conformidad y deberás contactarte con Servicio al Cliente de éxito.com. </li>
+													<li>Los almacenes del Grupo Éxito sólo son un canal de entrega, cualquier duda o inquietud al momento de recibir el pedido, debe canalizarse con Servicio al cliente de exito.com </li>
+													
+													
+											    </ul>
+
+
+
+												<p><a href="/puntoentrega" target="_blank">Consulta más detalles aquí.</a></p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta13-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#cambiar-direccion-despues-depedir" aria-expanded="true" aria-controls="cambiar-direccion-despues-depedir">
+													13. ¿Puedo cambiar mi dirección de entrega luego de realizar mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="cambiar-direccion-despues-depedir" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta13-entregas">
+											<div class="panel-body">
+												<p>Para pedidos de mercado no es posible cambiar la dirección una vez realizado el pedido.</p>
+												<p>Para pedidos de tienda está permitido el cambio de dirección dentro de la misma ciudad, siempre y cuando la guía de envío no haya sido asignada.</p>
+												<p>No se permiten cambios de dirección entre diferentes departamentos.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta14-entregas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#entregas-respuestas" href="#encuenta-recibir-pedido" aria-expanded="true" aria-controls="encuenta-recibir-pedido">
+													14. ¿Qué debo tener en cuenta al momento de recibir mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="encuenta-recibir-pedido" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta14-entregas">
+											<div class="panel-body">
+												<p>Debes revisar muy bien los empaques y verificar que estén en perfecto estado en compañía del transportador antes de firmar la guía. En caso de evidenciar una avería en el empaque no reciba el producto ni firme la guía, si firmas sin revisar perderás el derecho de reclamación.</p>
+												<p> Si compraste neveras, nevecones, estufas, lavadoras, secadoras y televisores, además de revisar los empaques, debes abrir y revisar que el producto no tenga golpes o abolladuras, todo esto se debe hacer en compañía del transportador antes de firmar la guía. En caso de evidenciar una avería no reciba el producto ni firme la guía, si firmas sin revisar perderás el derecho de reclamación.</p>
+												<p> En el caso de los televisores se deben encender durante las 24 horas siguientes después de la entrega para revisar que la pantalla no esté quebrada o tenga golpes.</p>
+												<p> Para que la reclamación sea válida debes conservar los empaques originales, los accesorios y manuales; además de no evidenciar uso.</p>
+												<p>Si compras artículos de gran dimensión como electrodomésticos, muebles o colchones y tu residencia es en un edificio, la entrega se realizará en la puerta de tu apartamento siempre y cuando se pueda acceder por ascensor. Si el acceso es por las escalas y el producto cabe, sólo se sube hasta el quinto piso. Después del quinto piso y sin ascensor, es su responsabilidad contratar personal capacitado para desplazar el producto hasta tu casa; además debes firmar la guía en el primer piso, antes de subir el producto.</p>
+												<p>Si compras un nevecón y se requiere desmonte de puertas, se debe solicitar con anticipación el servicio técnico de la marca, el valor es asumido por el cliente y no está incluido en el valor pagado por el producto. En caso que el producto requiera instalación (Estufas, Nevecones, Secadoras y Aires Acondicionados), se debe contactar a la marca y el cliente debe asumir este valor.</p>
+												<p>Tenga en cuenta que debe contactar a las líneas de Servicio al Cliente : Bogotá: (1) 745 5444 - Medellín: (4) 604 1919 - Cali: (2) 489 1222 - Resto del País 01 8000 428 800 dentro de las 24 horas siguientes a la entrega, donde debe brindar la información completa y clara, el asesor le solicitará evidencia fotográfica de los empaques y del producto donde tendrá un máximo de 7 días calendario para enviar las fotografías; de lo contrario no se aceptará la reclamación.</p>
+											</div>
+										</div>
+									</div>
+								</div>	
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro4">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#inconvenientes" aria-expanded="false" aria-controls="inconvenientes">
+									Inconvenientes con la página
+								</a>
+							</h4>
+						</div>
+						<div id="inconvenientes" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro4">
+							<div class="panel-body">
+								<div class="panel-group" id="inconvenientes-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-inconvenientes">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#inconvenientes-respuestas" href="#no-puedo-navegar" aria-expanded="true" aria-controls="no-puedo-navegar">
+													1.	¿Por qué el sistema no me permite navegar en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="no-puedo-navegar" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-inconvenientes">
+											<div class="panel-body">
+												<p>Si tiene problemas con el navegador, por favor seguir los pasos a continuación:</p>
+												<ul>
+													<li>Verifique el estado de Internet del computador.</li>
+													<li>Verifique la dirección que esté correcta: www.exito.com.</li>
+													<li>Verifique que tenga activado el uso de Java Script.</li>
+												</ul>
+												<p><strong>Se recomienda navegar por Internet Explorer versión 10 en adelante, Firefox, Chrome, Safari, Opera.</strong></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro5">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#estadopedido" aria-expanded="false" aria-controls="estadopedido">
+									Estado del pedido
+								</a>
+							</h4>
+						</div>
+						<div id="estadopedido" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro5">
+							<div class="panel-body">
+								<div class="panel-group" id="estadoPedido-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-estadoPedido">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#estadoPedido-respuestas" href="#verificar-estado-entrega" aria-expanded="true" aria-controls="verificar-estado-entrega">
+													1.	¿Cómo verifico el estado de entrega de mi pedido?
+												</a>
+											</h4>
+										</div>
+										<div id="verificar-estado-entrega" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-estadoPedido">
+											<div class="panel-body">
+												<p>Para conocer el estado de su pedido debe ingresar por <strong>-Iniciar sesión-.</strong> Allí debe digitar su usuario y clave. Luego, se ubica en la parte superior derecha donde aparece su nombre y se desplegará una pestaña, debe darle clic a la opción <strong>-Estado del pedido-,</strong> donde le aparecerán todos los pedidos realizados hasta la fecha con sus respectivos estados de entrega.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro6">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#productos" aria-expanded="false" aria-controls="productos">
+									Productos
+								</a>
+							</h4>
+						</div>
+						<div id="productos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro6">
+							<div class="panel-body">
+								<div class="panel-group" id="productos-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-productos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#productos-respuestas" href="#disponibilidad-productos-pagina-almacen" aria-expanded="true" aria-controls="disponibilidad-productos-pagina-almacen">
+													1. ¿En www.exito.com encuentro todos los productos que están en los almacenes y viceversa?
+												</a>
+											</h4>
+										</div>
+										<div id="disponibilidad-productos-pagina-almacen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-productos">
+											<div class="panel-body">
+												<p>Puede que algunos productos que estén disponibles en www.exito.com no los encuentre en los almacenes físicos, puesto que en Internet tenemos artículos exclusivos y mercancía que por su volumen no puede ser exhibida en los puntos de venta. Igualmente, es posible que encuentre productos en los almacenes que no tenemos disponibles en www.exito.com.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-productos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#productos-respuestas" href="#pago-producto-no-disponible" aria-expanded="true" aria-controls="pago-producto-no-disponible">
+													2. ¿Qué pasa si pago un producto y en el momento del envío este no está disponible?
+												</a>
+											</h4>
+										</div>
+										<div id="pago-producto-no-disponible" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-productos">
+											<div class="panel-body">
+												<p>Nuestro compromiso es ofrecerle el mejor servicio y entregar a tiempo los productos que solicita a través de sus compras en www.exito.com. Si por algún evento fortuito no pudiéramos dar cumplimiento a su solicitud de compra, se lo notificaremos telefónicamente. Esto sucederá si el producto que adquiere no se encuentra disponible en nuestro inventario.</p>
+												<p>En este caso y si su compra es de productos de mercado o cuidado personal, le ofrecemos elegir un sustituto que tenga un precio y calidad similar. Si es un artículo de las secciones de electrohogar, tecnología, vestuario y ropa hogar, le podremos ofrecer una nota cambio por el valor del producto, o si lo prefiere, realizaremos la reversión total de la compra a su tarjeta de créditox o débito o una transferencia bancaria a su cuenta de ahorros, según su elección.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-productos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#productos-respuestas" href="#costo-envio" aria-expanded="true" aria-controls="costo-envio">
+													3. ¿Cuánto me cuestan los envíos?
+												</a>
+											</h4>
+										</div>
+										<div id="costo-envio" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-productos">
+											<div class="panel-body">
+												<p>El costo del envío de productos de tecnología y electrohogar, se determina con base en el destino y el tamaño del producto comprado. Todos nuestros productos se encuentran clasificados en los siguientes tamaños: pequeño, mediano, grande y extragrande.</p>
+												<p>El costo del envío para los productos de vestuario se calcula de acuerdo a la ciudad de entrega.</p>
+												<p>El importe por este concepto es informado durante el proceso de liquidación de la compra y se suma al valor que se ha de pagar.</p>
+												<p>El costo del envío de pedidos de Mercado y Cuidado Personal es de <strong>$4.000.</strong></p>
+												<p><strong>Estos productos son entregados únicamente en 18 ciudades:</strong></p>
+												<p>Armenia, Bogotá, Bucaramanga, Barranquilla, Cartagena, Cali, Cúcuta, Ibague, Medellín, Montería, Manizales, Neiva, Pereira, Rionegro (Antioquia), Sincelejo, Santa Marta, Valledupar y Villavicencio.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-productos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#productos-respuestas" href="#unidades-maximas" aria-expanded="true" aria-controls="unidades-maximas">
+													4. ¿Cuántas unidades máximas puedo llevar por cada producto?
+												</a>
+											</h4>
+										</div>
+										<div id="unidades-maximas" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-productos">
+											<div class="panel-body">
+												<p>Los máximos son 2 unidades diarias por cédula en productos de electrohogar y digital, y 4 unidades diarias por cédula en productos de Hogar, textil, mercado y cuidado personal. </p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta5-productos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#productos-respuestas" href="#productos-carrito" aria-expanded="true" aria-controls="productos-carrito">
+													5. ¿Qué pasa con los productos que dejo en el carrito?
+												</a>
+											</h4>
+										</div>
+										<div id="productos-carrito" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta5-productos">
+											<div class="panel-body">
+												<p>Los productos permanecerán en el carrito, siempre y cuando haya inventario disponible, de lo contrario le aparecerá un mensaje en el que le informa que el producto se encuentra agotado y lo debe retirar. Puede volver en cualquier momento, iniciar sesión, revisar su carrito y verificar si hay unidades disponibles, para continuar con su compra.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro7">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#puntos" aria-expanded="false" aria-controls="puntos">
+									Puntos Colombia
+								</a>
+							</h4>
+						</div>
+						<div id="puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro7">
+							<div class="panel-body">
+								<div class="panel-group" id="puntos-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#compro-acumul-puntos" aria-expanded="true" aria-controls="compro-acumul-puntos">
+													1. ¿Qué es Puntos Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="compro-acumul-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-puntos">
+											<div class="panel-body">
+												<p>Puntos Colombia es la evolución de Puntos Éxito, Puntos Carulla y Puntos Bancolombia. Unimos grandes marcas en una sola red de aliados para premiarte a ti y a millones de colombianos más, con puntos que podrás disfrutar en nuestras marcas, en el catálogo virtual de Puntos Colombia y en experiencias de viajes.</p>
+												
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#redimo-puntos" aria-expanded="true" aria-controls="redimo-puntos">
+													2. ¿Cómo funciona Puntos Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="redimo-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-puntos">
+											<div class="panel-body">
+												<p>ECuando te registres en el programa, podrás empezar a ganar puntos de inmediato, comprando en éxito.com y en la red de aliados de Puntos Colombia; también ganarás puntos en otros lugares, pagando con tus Tarjetas de Crédito: Bancolombia, Éxito MasterCard y Carulla MasterCard, y si con ellas haces compras en nuestros comercios aliados de Puntos Colombia, ganarás muchos más puntos para disfrutar.</p>
+
+												<p>Los puntos acumulados podrás usarlos en productos de Almacenes Éxito, en los comercios aliados de Puntos Colombia, en el catálogo virtual disponible en www.puntoscolombia.com o en experiencias de viajes. Sólo debes identificarte con tu número de documento e ingresar la contraseña de Puntos Colombia.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#suscribir-programa-puntos" aria-expanded="true" aria-controls="suscribir-programa-puntos">
+													3. ¿Cómo puedo ganar puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="suscribir-programa-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-puntos">
+											<div class="panel-body">
+												<p>Una vez estés registrado en el programa, ganarás puntos cuando compres en éxito.com o en las marcas aliadas y utilizando cualquier medio de pago, únicamente dando tu documento de identidad. Ten en cuenta que, si pagas con tus Tarjetas de Crédito: Bancolombia, Éxito MasterCard y Carulla MasterCard, en cualquier lugar, ganas puntos, y si es en un comercio aliado de Puntos Colombia… ¡ganarás más puntos!</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#compartir-clave-familia" aria-expanded="true" aria-controls="compartir-clave-familia">
+													4.	¿Cuántos puntos gano por comprar en exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="compartir-clave-familia" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-puntos">
+											<div class="panel-body">
+												<p>Por tus compras en éxito.com acumulas 1 Punto por cada $700 en compras. </p>
+												<p><strong>Nota:</strong> Las compras de productos de Marketplace y Recargas de Móvil Éxito no acumulan puntos.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta5-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#token-celular" aria-expanded="true" aria-controls="token-celular">
+													5. ¿En qué puedo usar mis puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="token-celular" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta5-puntos">
+											<div class="panel-body">
+												<p>Los puntos que vayas ganando podrás usarlos en productos de las marcas aliadas, en más de 300 aerolíneas, en más de 30.000 hoteles, en alquiler de vehículos, actividades y planes especiales para ti. Comenzarás a ganar puntos por tus compras y podrás usarlos cuando quieras.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta6-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#pagar-parcialmente-puntos" aria-expanded="true" aria-controls="pagar-parcialmente-puntos">
+													6. ¿En dónde puedo consultar mi saldo de puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="pagar-parcialmente-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta6-puntos">
+											<div class="panel-body">
+												<p>Ingresa a www.puntoscolombia.com e inicia sesión para consultar tu saldo de puntos, que estará siempre visible en la parte superior, y si quieres conocer el historial de transacciones en las que has ganado y usado tus puntos, selecciona la opción "Mi cuenta", y allí encontrarás el detalle.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta7-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#pago-puntos-cambiar" aria-expanded="true" aria-controls="pago-puntos-cambiar">
+													7. ¿Debo contar con una contraseña para redimir mis Puntos Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="pago-puntos-cambiar" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta7-puntos">
+											<div class="panel-body">
+												<p>Sí, debes contar con una contraseña numérica de 4 dígitos para identificarte en los canales de atención de Puntos Colombia; esta la necesitarás además para usar tus puntos en los comercios aliados, en productos del catálogo virtual y en experiencias de viajes. Podrás crear una nueva contraseña en www.puntoscolombia.com, en la línea nacional de servicio al cliente 01 8000 180 698.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta8-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#pierdo-codigo-seguridad" aria-expanded="true" aria-controls="pierdo-codigo-seguridad">
+													8. ¿Cómo redimo mis puntos en www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="pierdo-codigo-seguridad" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta8-puntos">
+											<div class="panel-body">
+												<p>Puedes redimir tus Puntos Colombia en nuestros almacenes. En la actualidad, el servicio de redención de puntos a través de www.exito.com, no está disponible, pero estamos trabajando para mejorar su experiencia. Sin embargo, ganarás puntos por tus compras realizadas a través de la página.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta9-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#numero-celular-cajero" aria-expanded="true" aria-controls="numero-celular-cajero">
+													9. Los puntos que tengo, ¿a cuántos pesos equivalen al momento de usarlos?
+												</a>
+											</h4>
+										</div>
+										<div id="numero-celular-cajero" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta9-puntos">
+											<div class="panel-body">
+												<p>El valor de 1 punto equivale a $7 pesos, que podrás disfrutar en nuestros almacenes y demás comercios aliados de Puntos Colombia, así como en el catálogo virtual www.puntoscolombia.com y en experiencias de viajes.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta10-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#producto-oferta-pago-puntos" aria-expanded="true" aria-controls="producto-oferta-pago-puntos">
+													10. Si ya pertenezco a Puntos Éxito, Puntos Carulla y/o Puntos Bancolombia, ¿debo registrarme en Puntos Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="producto-oferta-pago-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta10-puntos">
+											<div class="panel-body">
+												<p>Como Puntos Colombia es la evolución de Puntos Éxito, Puntos Carulla y Puntos Bancolombia, los saldos de puntos que tengas en los programas originales se transfieren a una cuenta única una vez el programa inicie, por esta razón tendrás el privilegio de ser pionero en Puntos Colombia. Cuando realices compras en Éxito, Carulla o pagues con tu Tarjeta de Crédito Bancolombia, acumularás Puntos Colombia. </p>
+
+												<p>Deberás ingresar a la página web www.puntoscolombia.com, comunicarte con nuestros asesores en la línea nacional de servicio al cliente 01 8000 180 698, y allí autorizar el tratamiento de tus datos personales, actualizarlos y crear una contraseña. De esta manera podrás usar tus puntos en una amplia red de aliados, en el catálogo virtual y en experiencias de viajes.  </p>
+
+												<p>Si vienes de los programas Puntos Éxito y/o Puntos Carulla, tienes una clave activa, y ya nos autorizaste tratar tus datos personales, podrás comenzar a usar tus puntos y disfrutar de todos los beneficios que tenemos para ti. Si no la recuerdas o no tienes una, deberás ingresar a nuestra página web o contactarnos a través de nuestras líneas de atención para crearla.</p>
+
+												<p>Si eres cliente de Puntos Bancolombia deberás ingresar a www.puntoscolombia.com para crear una contraseña, una vez el programa inicie.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta11-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#limite-pagar-puntos" aria-expanded="true" aria-controls="limite-pagar-puntos">
+													11. ¿Qué pasa con los puntos que tenía en Puntos Éxito, Puntos Carulla, y/o Puntos Bancolombia?
+
+												</a>
+											</h4>
+										</div>
+										<div id="limite-pagar-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta11-puntos">
+											<div class="panel-body">
+												<p>Los puntos que tenías no se perderán cuando pasen a Puntos Colombia; todos formarán parte de una sola cuenta que podrás usar en una amplia red de aliados, en el catálogo virtual o en experiencias de viajes.</p>
+
+												<p>La cantidad de puntos que tenías en Éxito será menor y la cantidad de puntos que tenías en Bancolombia será mayor, pero el valor en dinero será el mismo, es decir, te seguirá alcanzando para todo eso que siempre comprabas y, además, tendrás más opciones de productos, servicios, experiencias y viajes.</p>
+
+												<p>La conversión se aplicará de la siguiente manera:
+													</p><ul>
+														<li>	Los puntos que tenías en Puntos Éxito y Puntos Carulla, serán divididos entre 7. </li>
+														<li>	Los puntos del programa Puntos Bancolombia, serán multiplicados por 5,36. </li>
+														<li>	El resultado de estas operaciones corresponderá al nuevo saldo que tendrás disponible en Puntos Colombia.</li>
+													</ul>
+												<p></p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta12-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#puntos-tarjeta-regalo" aria-expanded="true" aria-controls="puntos-tarjeta-regalo">
+													12. ¿En cuánto tiempo puedo visualizar mis puntos ?
+
+												</a>
+											</h4>
+										</div>
+										<div id="puntos-tarjeta-regalo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta12-puntos">
+											<div class="panel-body">
+												<p>Los puntos acumulados podrán verse reflejados en tu cuenta, hasta 3 días hábiles después de realizada la compra.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta13-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#clave-redimir-puntos" aria-expanded="true" aria-controls="clave-redimir-puntos">
+													13. ¿Cuándo vencen mis puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="clave-redimir-puntos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta13-puntos">
+											<div class="panel-body">
+												<p>El vencimiento de tus puntos dependerá de las políticas de cada aliado y el tiempo mínimo será de 12 meses.</p>
+
+													<p>Si tenías puntos Éxito, Carulla y/o Bancolombia, estos automáticamente pasarán a una cuenta única de Puntos Colombia, con el vencimiento de los programas originales. </p>
+
+												<p>	Para consultar el vencimiento de tus puntos ingresa a www.puntoscolombia.com o comunícate con la línea nacional de servicio al cliente 01 8000 180 698.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta14-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#condiciones-asignar-clave" aria-expanded="true" aria-controls="condiciones-asignar-clave">
+													14. ¿Qué debo hacer si se bloquea mi contraseña?
+												</a>
+											</h4>
+										</div>
+										<div id="condiciones-asignar-clave" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta14-puntos">
+											<div class="panel-body">
+												<p>Cuando ingresas tres veces la contraseña de forma errada, ya sea en el punto de venta de una marca aliada o en nuestra página web, por tu seguridad la bloquearemos. 24 horas después podrás intentarlo nuevamente con tu contraseña actual, pero si necesitas reestablecerla rápidamente, deberás comunicarte con la línea nacional de servicio 01 8000 180 698.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta15-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#usar-puntos-acumulan-transaccion" aria-expanded="true" aria-controls="usar-puntos-acumulan-transaccion">
+													15. ¿Tengo que presentar algún documento físico para usar mis puntos? 
+												</a>
+											</h4>
+										</div>
+										<div id="usar-puntos-acumulan-transaccion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta15-puntos">
+											<div class="panel-body">
+												<p>No. Podrás usar tus puntos en cualquier marca aliada únicamente indicando tu tipo de documento, el número y digitando la contraseña del programa.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta16-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#alianzas-puntos-tres" aria-expanded="true" aria-controls="alianzas-puntos-tres">
+													16.  Cuando pago con Plata y Puntos, ¿puedo acumular más puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="alianzas-puntos-tres" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta16-puntos">
+											<div class="panel-body">
+												<p>Si decides pagar con Plata y Puntos en éxito, acumulas Puntos Colombia por el monto pagado con dinero.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta17-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#cliente-olvido-clave" aria-expanded="true" aria-controls="cliente-olvido-clave">
+													17. Realicé el pre-registro en Puntos Colombia en el Punto de Venta de un aliado.  ¿Qué debo hacer?
+												</a>
+											</h4>
+										</div>
+										<div id="cliente-olvido-clave" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta17-puntos">
+											<div class="panel-body">
+												<p>Debes ingresar a www.puntoscolombia.com, comunicarte con nuestra línea nacional de servicio al cliente 018000 180 698 para finalizar el registro. Recuerda que tienes 30 días calendario para completar este proceso. Después de esta fecha, si no lo has realizado, perderás los puntos acumulados.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta18-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#nuevo-programa" aria-expanded="true" aria-controls="nuevo-programa">
+													18. Cuando uso mis puntos ¿se gastan primero los que tienen la fecha de vencimiento más próxima?
+												</a>
+											</h4>
+										</div>
+										<div id="nuevo-programa" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta18-puntos">
+											<div class="panel-body">
+												<p>Sí. Cuando usas tus puntos, los primeros que se debitan son los que tienen mayor antigüedad, permitiendo así que los puntos que queden disponibles en tu cuenta sean los más recientes.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta19-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#alianzas-catalogos-campanas" aria-expanded="true" aria-controls="alianzas-catalogos-campanas">
+													19. ¿Puedo adquirir un producto con plata y puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="alianzas-catalogos-campanas" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta19-puntos">
+											<div class="panel-body">
+												<p>Sí, podrás hacerlo, te contamos las diferentes opciones que tendrás para usar tus puntos:</p>
+												<p>
+													</p><ul>
+													<li>	Solo Puntos: podrás llevar el producto con solo puntos, si cuentas con la cantidad necesaria.</li>
+													<li>	Plata más puntos: Podrás definir el número de puntos que quieres usar para comprar el producto y el resto lo pagas con dinero.</li>
+													<li>	Plata y Puntos: este es un beneficio que podrán darte algunos de nuestros aliados, estos productos estarán marcados con la cantidad de puntos y dinero exacto que deberás pagar para llevarte el producto con un descuento.</li>
+													</ul>
+												<p></p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta20-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#restricciones-redencion" aria-expanded="true" aria-controls="restricciones-redencion">
+													20. ¿Los productos o servicios de exito.com permiten acumular puntos?
+												</a>
+											</h4>
+										</div>
+										<div id="restricciones-redencion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta20-puntos">
+											<div class="panel-body">
+												<p>Sí, en éxito.com acumulas Puntos Colombia. Nota: Las compras de productos de Marketplace y Recargas de Móvil Éxito no acumulan puntos.</p>
+												
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta21-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#acumulacion" aria-expanded="true" aria-controls="acumulacion">
+													21. ¿Qué sucede si actualmente hago parte  Puntos Éxito, Puntos Carulla y/o Puntos Bancolombia, pero no quiero pasarme a Puntos Colombia?
+												</a>
+											</h4>
+										</div>
+										<div id="acumulacion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta21-puntos">
+											<div class="panel-body">
+												<p>Como Puntos Colombia es la evolución de Puntos Éxito, Puntos Carulla y Puntos Bancolombia, los saldos de puntos de los programas originales se transfieren a una cuenta única, una vez el programa inicie. Los puntos que tengas acumulados en los programas anteriores podrás usarlos en nuestra amplia red de aliados, en el catálogo virtual y en experiencias de viajes que encontrarás en www.puntoscolombia.com. Los programas anteriores dejarán de existir, pero como no queremos que pierdas todos los beneficios que tenías, serás pionero en Puntos Colombia y tendrás más recompensas y mejores experiencias en tu día a día.  Si después de conocer todos estos beneficios decides no continuar en el programa, podrás retirarte a través de la línea 01 8000 180 698 a nivel nacional.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta22-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#asignar-clave-redimir" aria-expanded="true" aria-controls="asignar-clave-redimir">
+													22. ¿Puedo recuperar los puntos vencidos?
+												</a>
+											</h4>
+										</div>
+										<div id="asignar-clave-redimir" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta21-puntos">
+											<div class="panel-body">
+												<p>No, una vez se vencen tus puntos no podrás usarlos. Te invitamos a conocer los próximos vencimientos de tus puntos en www.puntoscolombia.com.</p>
+												
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta23-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#porque-preguntas" aria-expanded="true" aria-controls="porque-preguntas">
+													23. ¿Qué pasa con mis puntos si me retiro del programa?
+												</a>
+											</h4>
+										</div>
+										<div id="porque-preguntas" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta23-puntos">
+											<div class="panel-body">
+												<p>Al momento del retiro, los puntos que tengas acumulados se perderán.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta24-puntos">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#puntos-respuestas" href="#bloqueo-olvido-clave" aria-expanded="true" aria-controls="bloqueo-olvido-clave">
+													24. ¿Por dónde puedo contactar a Puntos Colombia para consultar información del programa, realizar solicitudes, quejas y reclamaciones?
+												</a>
+											</h4>
+										</div>
+										<div id="bloqueo-olvido-clave" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta24-puntos">
+											<div class="panel-body">
+												<p>Puedes hablar con nosotros a través de:</p>
+													<p></p><ul>
+														 <li>El Chat en línea disponible en www.puntoscolombia.com</li>
+														 <li>Nuestras líneas de servicio al cliente: 01 8000 180 698 a nivel nacional.</li>
+														 <li>Nuestras redes sociales: Facebook, Instagram, Twitter y Youtube.</li>
+														 <li>O nos puede escribir al correo electrónico: servicio@clientes.puntoscolombia.com</li>
+													</ul>
+												<p></p>
+											</div>
+										</div>
+									</div>
+								
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro8">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#ventas-mayoristas" aria-expanded="false" aria-controls="ventas-mayoristas">
+									Ventas Mayoristas
+								</a>
+							</h4>
+						</div>
+						<div id="ventas-mayoristas" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro8">
+							<div class="panel-body">
+								<div class="panel-group" id="mayoristas-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-mayoristas">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#mayoristas-respuestas" href="#restricciones-venta-por-mayor" aria-expanded="true" aria-controls="restricciones-venta-por-mayor">
+													1.¿ Qué restricciones tiene www.exito.com para la venta al por mayor?
+												</a>
+											</h4>
+										</div>
+										<div id="restricciones-venta-por-mayor" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-mayoristas">
+											<div class="panel-body">
+												<p>www.exito.com tiene máximos de unidad de compra, 2 unidades diarias por cédula en productos de electrohogar y digital, y 4 unidades diarias por cédula en productos de Hogar, mercado y cuidado personal. </p>
+												<p>Si algún cliente desea adquirir más unidades que las limitadas, se puede comunicar con nuestras líneas de atención y le ayudaremos a través de nuestra área de ventas empresariales.</p>
+												<p>Cuando se superan los límites, verificaremos los datos personales de quien aparezca en la solicitud de compra y/o  los datos personales de quien aparezca como titular de la tarjeta bancaria, donde www.exito.com se reserva el derecho a cancelar la transacción o transacciones en las que se determine que un cliente ha superado el límite o cantidad máxima de unidades que puede adquirir de un mismo producto, indistintamente si se trata de una o varias transacciones. </p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro9">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#correos-publicidad" aria-expanded="false" aria-controls="correos-publicidad">
+									Correos Publicidad
+								</a>
+							</h4>
+						</div>
+						<div id="correos-publicidad" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro9">
+							<div class="panel-body">
+								<div class="panel-group" id="correo-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-correo">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#correo-respuestas" href="#inscribir-correos-promociones" aria-expanded="true" aria-controls="inscribir-correos-promociones">
+													1. ¿Cómo hago para que me lleguen correos con ofertas de www.exito.com y estar enterado de las promociones?
+												</a>
+											</h4>
+										</div>
+										<div id="inscribir-correos-promociones" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-mayoristas">
+											<div class="panel-body">
+												<p>Es muy fácil, en la página inicial de www.exito.com, en el extremo inferior de la misma encontrarás una casilla que dice ?Recibe nuestras ofertas y promociones en tu correo?. En ésta casilla ingrese su correo y ya estará automáticamente inscrito.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-correo">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#correo-respuestas" href="#cancelar-recibo-correos" aria-expanded="true" aria-controls="cancelar-recibo-correos">
+													2. ¿Qué puedo hacer para que no me lleguen correos de publicidad de www.exito.com?
+												</a>
+											</h4>
+										</div>
+										<div id="cancelar-recibo-correos" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-mayoristas">
+											<div class="panel-body">
+												<p>Si desea dejar de recibir mensajes, ingrese al último correo que recibió y en el extremo inferior encontrará el link de desuscripción</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro10">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#facturacion" aria-expanded="false" aria-controls="facturacion">
+									Facturación
+								</a>
+							</h4>
+						</div>
+						<div id="facturacion" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro10">
+							<div class="panel-body">
+								<div class="panel-group" id="facturacion-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-facturacion">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#facturacion-respuestas" href="#generar-factrura" aria-expanded="true" aria-controls="generar-factrura">
+													1. ¿Me pueden generar la factura a nombre de otra persona?
+												</a>
+											</h4>
+										</div>
+										<div id="generar-factrura" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-facturacion">
+											<div class="panel-body">
+												<p>Sí, es posible generar la factura a nombre de una persona natural o jurídica diferente al usuario que ejecuta la compra, antes de terminar el proceso de pago. No aplica para productos Marketplace.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-facturacion">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#facturacion-respuestas" href="#cambio-nombre-factura" aria-expanded="true" aria-controls="cambio-nombre-factura">
+													2. ¿Cómo se realiza el cambio de nombre de la factura?
+												</a>
+											</h4>
+										</div>
+										<div id="cambio-nombre-factura" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-facturacion">
+											<div class="panel-body">
+												<p>Después de elegir la dirección de entrega, se habilita la Información de facturación, donde se verifican los datos o a través del botón ?Desea cambiar los datos de facturación? se accede a un nuevo formulario donde es necesario ser preciso en los nuevos datos; después de generada la factura no se realizará ninguna modificación.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="filtro11">
+							<h4 class="panel-title">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordionquestions" href="#marketplace" aria-expanded="false" aria-controls="marketplace">
+									Productos Marketplace
+								</a>
+							</h4>
+						</div>
+						<div id="marketplace" class="panel-collapse collapse" role="tabpanel" aria-labelledby="filtro11">
+							<div class="panel-body">
+								<div class="panel-group" id="marketplace-respuestas" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta1-marketplace">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#marketplace-respuestas" href="#demoraEntrega" aria-expanded="true" aria-controls="demoraEntrega">
+													1. ¿Cuánto se demora un producto Marketplace en ser entregado?
+												</a>
+											</h4>
+										</div>
+										<div id="demoraEntrega" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta1-marketplace">
+											<div class="panel-body">
+												<p>Cada vendedor tiene un tiempo de entrega diferente el cual puedes consultar en la descripción del producto. Puedes realizar seguimiento de tu orden desde la opción ¿Dónde está mi pedido?</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta2-marketplace">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#marketplace-respuestas" href="#mercanciaNoCorrecta" aria-expanded="true" aria-controls="mercanciaNoCorrecta">
+													2. ¿Qué debo hacer si la mercancía entregada no es la correcta, está averiada o con defectos?
+												</a>
+											</h4>
+										</div>
+										<div id="mercanciaNoCorrecta" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta2-marketplace">
+											<div class="panel-body">
+												<p>Puedes contactarte con nuestra línea de atención al cliente e iniciar una solicitud de devolución, suministrando toda la información relacionada con tu orden. El equipo de Servicio al cliente se comunicará con el vendedor y te dará solución a tu reclamación.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta3-marketplace">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#marketplace-respuestas" href="#contactoVendedor" aria-expanded="true" aria-controls="contactoVendedor">
+													3. ¿Cómo contacto a un vendedor Marketplace?
+												</a>
+											</h4>
+										</div>
+										<div id="contactoVendedor" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta3-marketplace">
+											<div class="panel-body">
+												<p>Puedes contactarlo desde tu cuenta en la opción “Pregúntale al vendedor” o a través de nuestro personal de servicio al cliente.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta4-marketplace">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#marketplace-respuestas" href="#devolucionProducto" aria-expanded="true" aria-controls="devolucionProducto">
+													4. ¿Cómo realizo una devolución de un producto Marketplace?
+												</a>
+											</h4>
+										</div>
+										<div id="devolucionProducto" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta4-marketplace">
+											<div class="panel-body">
+												<p>Si deseas realizar una devolución, debes validar que esté dentro del tiempo de retracto (5 días hábiles desde la entrega del producto) y comunicarte con nuestro equipo de Servicio al Cliente. Ellos tomarán tu solicitud y te indicarán los pasos a seguir.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="respuesta5-marketplace">
+											<h4 class="panel-title">
+												<a role="button" data-toggle="collapse" data-parent="#marketplace-respuestas" href="#garantiaMarketplace" aria-expanded="true" aria-controls="garantiaMarketplace">
+													5. ¿Cuánto es el tiempo de garantía de un producto Marketplace?
+												</a>
+											</h4>
+										</div>
+										<div id="garantiaMarketplace" class="panel-collapse collapse" role="tabpanel" aria-labelledby="respuesta5-marketplace">
+											<div class="panel-body">
+												<p>Todos los vendedores cuentan con un tiempo de garantía diferente para cada uno de sus productos. La garantía ofrecida no puede ser menor a la exigida por la Ley. Para mayor información consulta la política de Cambios y Devoluciones en la ficha de cada producto.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

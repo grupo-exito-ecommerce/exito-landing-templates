@@ -1,0 +1,27 @@
+		#benefits-mkp img, #steps-seller img {margin: 0 auto; }
+		#benefits-mkp p, #steps-seller p {font-size: 15px; font-weight: 300; letter-spacing: 1px; line-height: 18px; }
+		#benefits-mkp, #steps-seller, #join-us {color: #fff; padding-bottom: 25px; padding-top: 25px; }
+		#benefits-mkp{background-color: #337ab3; }
+		#copy-marketplace p {font-size: 20px; letter-spacing: 2px; }
+		#copy-marketplace {margin:30px 0 15px 0; }
+		#cta-marketplace{margin-top:15px; margin-bottom: 45px;}
+		#join-us input, #join-us select {color: black; height: 30px; margin-bottom: 15px; margin-top: 15px; }
+		#join-us select {background-color: #fff; }
+		#join-us {background-color: #404e61; color: #fff; font-size: 15px;letter-spacing: 0px; }
+		#marketplace-container .btn-info {background-color: #337ab7; border-color: #1d476b; color: #fff; }
+		#marketplace-container .btn-info:active {background-color: #1d476b;outline: none;}
+		#mkp-header {-moz-box-shadow: 700px 700px 44px rgba(255, 255, 255, 0.63) inset; -o-box-shadow: 700px 700px 44px rgba(255, 255, 255, 0.63) inset; -webkit-box-shadow: 700px 700px 44px rgba(255, 255, 255, 0.63) inset; background-image: url(https://exitocol.vteximg.com.br/arquivos/mkp-bg-mkp.jpg); background-repeat: no-repeat; background-size: cover; box-shadow: 700px 700px 44px rgba(255, 255, 255, 0.63) inset; margin-bottom: 15px; margin-top:10px; overflow: hidden; padding-top: 25px; }
+		#steps-seller {background-color: #008684; color: #fff; }
+		.beneficios-title {color: #337ab3; }
+		.beneficios-title, .pasos-title, .registrarse-title {font-size: 22px; font-weight: 300; letter-spacing: 1px; padding: 20px 0; }		
+		.pasos-title{color: #008684; }
+		.registrarse-title {color: #404e61; }
+ 		#marketplace-title h1 {border-left: 6px solid #337ab7; font-weight: bold; padding-left: 15px; }
+ 		@media (min-width: 992px){
+			#benefits-mkp .col-md-2 {width: 14.28%; }
+			#benefits-mkp h4, #steps-seller h4 {border-top: 1px solid white; border-width: 50%; padding: 16px 0 0 0;} 
+			#copy-marketplace h2{font-size: 40px; margin: 0; padding: 0; }
+			#copy-marketplace p {font-size: 30px; letter-spacing: 2px; }
+			#marketplace-title h1 {border-left: 6px solid #337ab7; font-size: 45px; font-weight: bold; padding-left: 15px; }
+			.header-copy {font-size: 19px;}
+		}

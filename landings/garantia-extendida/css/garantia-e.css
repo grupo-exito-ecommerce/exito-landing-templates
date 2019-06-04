@@ -1,0 +1,53 @@
+.logo h2{
+	display: inline-block;
+}
+.logo h4{
+	display: inline-block;
+}
+
+.cabezote-garantia {
+	background-color: #000;
+	padding:15px 0;
+}
+.cabezote-garantia h2{
+	color: #fff;
+	font-weight: lighter;
+}
+.cabezote-garantia h4{
+	color: #fff
+}
+.cabezote-garantia span{
+	color: #ffe800;
+}
+.pasos h3{
+	font-weight: lighter;
+}
+.video {
+margin-top: 10px;
+}
+.chat-call {
+padding-top: 70px;
+}
+.list-group{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.regalo img{
+	padding-left: 20px;
+	padding-top:20px;
+}
+.regalo ul{
+	padding-top:40px;
+	font-size: 17px;
+}
+.desktop-tittle h2{
+	font-size: 60px;
+	text-align: center;
+}
+.desktop-tittle h4{
+	font-size: 25px;
+	text-align: center;
+}
+.boton-terminos{
+margin-top: 20px;
+}
