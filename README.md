@@ -15,7 +15,7 @@
 #### Guía de uso:
 
 > La url que debemos de emplear al momento de armar nuestra landing debe
-> de ser relativa y no absoluta, e
+> de ser relativa y no absoluta, para prevenir lentitud al redirigir las urls absolutas.
 
 Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archivos de vtex, estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container` esto es para que los estilos aplicados por Bootstrap no afecten al resto del sitio. 
 
@@ -23,5 +23,5 @@ Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archiv
 **Bootstrap v3.3.5 (Vesion Exito)**: Esta versión de Bootstrap es la empleada actualmente en el sitio web del exito. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5OTY5NzU4LDE3MDM0OTY1MV19
+eyJoaXN0b3J5IjpbLTEyNjM1Mjc5NzUsMTcwMzQ5NjUxXX0=
 -->
