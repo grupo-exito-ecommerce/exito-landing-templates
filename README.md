@@ -5,16 +5,16 @@
 
 **Links de Bootstrap**
 
-#### Guía de uso:
-
-Al momento de llamar los recursos *css* de bootstrap desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container
-
 |Bootstrap| Url|
 |--|--|
 |Bootstrap v3.3.5 (Vesion Exito)| [/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  |
 |Bootstrap v3.3.7| [/arquivos/bootstrap.3.3.7.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css) |
 |Bootstrap v4.3.1| [/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
 
+
+#### Guía de uso:
+
+Al momento de llamar los recursos *css* de bootstrap desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjMwMjI3MiwxNzAzNDk2NTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTk2NjE4ODYsMTcwMzQ5NjUxXX0=
 -->
