@@ -14,7 +14,8 @@
 
 #### Guía de uso:
 
-Al momento de llamar los recursos *css* de bootstrap desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container`
+Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container` esto es para que los estilos aplicados por Bootstrap no afecten al resto del sitio. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk2NjE4ODYsMTcwMzQ5NjUxXX0=
+eyJoaXN0b3J5IjpbMTM2OTcwNjY4NCwxNzAzNDk2NTFdfQ==
 -->
