@@ -5,12 +5,16 @@
 
 **Links de Bootstrap**
 
+#### Guía de uso:
+
+Al
+
 |Bootstrap| Url|
 |--|--|
-|Bootstrap v3.3.5 (Vesion Exito)| [https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  |
-|Bootstrap v3.3.7| [https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css) |
-|Bootstrap v4.3.1| [https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
+|Bootstrap v3.3.5 (Vesion Exito)| [/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  |
+|Bootstrap v3.3.7| [/arquivos/bootstrap.3.3.7.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css) |
+|Bootstrap v4.3.1| [/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzQ5NjUxXX0=
+eyJoaXN0b3J5IjpbLTI2ODc3NjM3NSwxNzAzNDk2NTFdfQ==
 -->
