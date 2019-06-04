@@ -21,9 +21,7 @@ Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archiv
 
 **Bootstrap v3.3.5 (Vesion Exito)**: Esta versión de Bootstrap es la empleada actualmente en el sitio web del exito. 
 
-
-Prueba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzg0NzUxMCwtMTkxODQ5NDM2OSwtMT
-c3NTUxNzYzNl19
+eyJoaXN0b3J5IjpbLTE5MTg0OTQzNjksLTE5MTg0OTQzNjksLT
+E3NzU1MTc2MzZdfQ==
 -->
