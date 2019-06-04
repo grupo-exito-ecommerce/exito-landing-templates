@@ -5,8 +5,8 @@
 
 **Links de Bootstrap**
 
-|Bootstrap| Url|
-|--|--|
+|Bootstrap| Url | Documentación
+|--|--|--|
 |Bootstrap v3.3.5 (Vesion Exito)| [/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  |
 |Bootstrap v3.3.7| [/arquivos/bootstrap.3.3.7.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.3.3.7.min.css) |
 |Bootstrap v4.3.1| [/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
@@ -17,5 +17,5 @@
 Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container` esto es para que los estilos aplicados por Bootstrap no afecten al resto del sitio. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTcwNjY4NCwxNzAzNDk2NTFdfQ==
+eyJoaXN0b3J5IjpbMTIwOTc4NzA5MywxNzAzNDk2NTFdfQ==
 -->
