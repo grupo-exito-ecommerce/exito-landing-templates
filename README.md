@@ -9,10 +9,10 @@ Links de Bootstrap
 
 |Bootstrap| Url|
 |--|--|
-|Bootstrap v3.3.5|  |
+|Bootstrap v3.3.5 (Vesion Exito)| [https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.exito.min.css)  |
 |Bootstrap v3.3.7|  |
-|Bootstrap v4.3.1|  |
+|Bootstrap v4.3.1| [https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODIxNTM1MF19
+eyJoaXN0b3J5IjpbLTE0NDUwMjUzNTAsMTM3ODIxNTM1MF19
 -->
