@@ -7,7 +7,7 @@
 
 #### Guía de uso:
 
-Al
+Al momento de llamar los recursos *css* de bootstrap desde el sistema de archivos de vtex estamos cargando un archivo personalizado que solo funciona si el contenido esta encerrado dentro de una clase llamada  `landing-container
 
 |Bootstrap| Url|
 |--|--|
@@ -16,5 +16,5 @@ Al
 |Bootstrap v4.3.1| [/arquivos/bootstrap.4.3.min.css](https://exitocol.vteximg.com.br/arquivos/bootstrap.4.3.min.css) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODc3NjM3NSwxNzAzNDk2NTFdfQ==
+eyJoaXN0b3J5IjpbMTI0MjMwMjI3MiwxNzAzNDk2NTFdfQ==
 -->
