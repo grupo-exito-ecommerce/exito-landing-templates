@@ -1,6 +1,7 @@
 # Administración de landings en Vtex
 
-[Guía para la creación de una landing](https://github.com/grupo-exito-ecommerce/exito-vtex-doc/blob/master/directory/landing-creation/landing-creation.md)  
+[Guía para la creación de una landing](https://github.com/grupo-exito-ecommerce/exito-landing-templates/blob/master/guide/landing-creation/landing-creation.md)
+
 [Descarga](https://github.com/grupo-exito-ecommerce/exito-vtex-doc/blob/master/resources/examples/landing/new-landing.html) el archivo HTML base para la creación de una landing
 
 **Links de Bootstrap**
@@ -22,5 +23,5 @@ Al momento de llamar los recursos *css* de Bootstrap  desde el sistema de archiv
 **Bootstrap v3.3.5 (Vesion Exito)**: Esta versión de Bootstrap es la empleada actualmente en el sitio web del exito. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU1MTc2MzZdfQ==
+eyJoaXN0b3J5IjpbMTI4NDYwMTU5MCwtMTc3NTUxNzYzNl19
 -->
